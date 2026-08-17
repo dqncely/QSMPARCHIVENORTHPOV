@@ -28,6 +28,11 @@ repo follows from that one goal.
   `Confidence: unconfirmed` field until it's verified.
 - Nothing in this repo should be treated as a finished canon record until
   it's been cross-checked against `02-transcripts/` (the primary source).
+- Every individual claim in a canon file — not just the file as a whole —
+  carries a tag from [CERTAINTY-LEVELS.md](CERTAINTY-LEVELS.md):
+  `[CANON FACT]`, `[STRONG INFERENCE]`, `[MY INTERPRETATION]`, or
+  (fiction files only) `[FIC ADDITION]`. Interpretation never gets
+  presented as fact just because it sits next to facts in the same file.
 
 ## 3. Transcripts are ground truth
 
