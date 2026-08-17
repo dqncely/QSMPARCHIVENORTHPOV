@@ -143,14 +143,17 @@ this is about concealment specifically. -->
 
 <!--
 Knowledge-state tracking — critical for not having a character react to
-information they haven't actually received yet in-story. One row per
-point where their knowledge changes.
+information they haven't actually received yet in-story. This should
+mirror, not duplicate, the master record in
+../11-continuity-tracking/KNOWLEDGE-INDEX.md — link to Revelation IDs
+(REV-000x) from there rather than re-describing the information here.
+Add a row per point where their knowledge changes.
 
-| Event ID / date | What they know at this point | Source of knowledge | Tag |
+| Event ID / date | Revelation (REV-ID) | Source of knowledge | Tag |
 |---|---|---|---|
 -->
 
-| Event ID / date | What they know at this point | Source of knowledge | Tag |
+| Event ID / date | Revelation (REV-ID) | Source of knowledge | Tag |
 |---|---|---|---|
 | | | | |
 
@@ -158,15 +161,14 @@ point where their knowledge changes.
 
 <!--
 Dramatic irony tracking — information the audience/reader has that this
-character lacks, and until when. Useful for writing scenes where the
-character is (canonically or fictionally) operating on incomplete
-information.
+character lacks, and until when. Link to Revelation IDs in
+../11-continuity-tracking/ where applicable.
 
-| Event ID / date | What the audience knows | Character remains unaware until | Tag |
+| Event ID / date | Revelation (REV-ID) | Character remains unaware until | Tag |
 |---|---|---|---|
 -->
 
-| Event ID / date | What the audience knows | Character remains unaware until | Tag |
+| Event ID / date | Revelation (REV-ID) | Character remains unaware until | Tag |
 |---|---|---|---|
 | | | | |
 

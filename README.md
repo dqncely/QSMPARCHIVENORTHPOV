@@ -22,6 +22,7 @@ theory vs. fiction — read that before adding content.
 | [`08-prose-drafts/`](08-prose-drafts) | Work-in-progress prose. Messy is fine here. |
 | [`09-finished-stories/`](09-finished-stories) | Completed, polished stories. |
 | [`10-images-design-refs/`](10-images-design-refs) | Character art, maps, mood boards, and other visual references. |
+| [`11-continuity-tracking/`](11-continuity-tracking) | Master "who knows what, since when" tracker — revelations, false beliefs, and who's told whom, shared across all characters. |
 
 Each folder has its own `README.md` explaining what belongs there, and most
 have a `_template.md` to copy when adding a new entry.
