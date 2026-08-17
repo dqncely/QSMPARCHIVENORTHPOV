@@ -150,9 +150,13 @@ Author has confirmed (2026-08-17) that this relationship eventually develops int
 
 ## Current relationship state
 
-- **As of (Event ID):** EV-0033 (last tracked event)
-- **Relationship type:** Deep, tested trust underneath an ongoing "rivalry" bit; last direct contact before Juan's unexplained disappearance.
-- **Summary:** From a warm first meeting through a real betrayal-and-repair cycle, physical protection, petty prank wars, and a full trust arc around the Federation — this is by far the most developed relationship in the tracked timeline. It ends (for now) on Juan's disappearance, with Foolish as his last conversation.
+- **As of (Event ID):** EV-0055 (last tracked event)
+- **Relationship type:** Deep, tested trust underneath an ongoing "rivalry" bit — both currently absent from each other and from the North: Juan in captivity, Foolish soul-bound to Dark Cucurucho and away building a temple.
+- **Summary:** From a warm first meeting through a real betrayal-and-repair cycle, physical protection, petty prank wars, and a full trust arc around the Federation, culminating in an unfinished, unrecognized goodbye — this is by far the most developed relationship in the tracked timeline. Neither currently knows the other's situation: Juan doesn't know Foolish has bound his soul to try to save him; Foolish doesn't know the specifics of Juan's captivity beyond what Aldo relayed. Foolish's private realization from EV-0045 remains entirely unspoken and unacted upon.
+
+## Correction on record
+
+**[EV-0033](../01-canon-timeline/ev-0033-juan-disappearance.md)'s original brief version was superseded** with a full account (2026-08-17) — including the correction that it was [Senpai Spider](../03-character-sheets/senpai-spider.md), not [Ishan](../03-character-sheets/ishan.md), who hugged Juan shortly before his disappearance. Kept on record rather than silently fixed.
 
 ## Related entries
 

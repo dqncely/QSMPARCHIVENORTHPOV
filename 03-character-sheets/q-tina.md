@@ -62,16 +62,16 @@ None established.
 
 ## Current status
 
-- **As of:** ongoing
-- Core North member; close with Foolish (fellow QSMP1 survivor) and Juan (sibling-like dynamic); positioned by the author as "the miserable third wheel" to the Foolish/Juan dynamic.
+- **As of:** EV-0055 (last tracked event)
+- Acting Generalísima of The North, a role handed to her by Aldo when he turned himself in. Openly grieving both Aldo's and Juan's absences — more verbally than Foolish, who's covering similarly with jokes and kelpamine instead. [CANON FACT]
 
 ## Chronological character arc
 
-No specific dated events yet — this sheet is currently built entirely from author characterization rather than logged events. Update this table once Tina appears in a dated timeline entry.
-
 | Event ID | What happens for this character | Tag |
 |---|---|---|
-| | | |
+| EV-0050 | Present when the North learns of Juan's kidnapping; part of the "girls' night" group interrupted by the entity | [CANON FACT] |
+| EV-0053 | Given Aldo's rank and title when he turns himself in; breaks the news to Foolish; begins mirroring Aldo's role and phrasing | [CANON FACT] |
+| EV-0054 | Openly, repeatedly voices missing Juan; pushes back on Foolish's deflection about the kidnapping; worries about his kelpamine use | [CANON FACT] |
 
 ## Relationships
 

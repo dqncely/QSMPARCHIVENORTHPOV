@@ -65,7 +65,7 @@ at fear of loss, but that's speculative. [MY INTERPRETATION]
 
 ## Habits
 
-Not yet established.
+- Copes with grief/stress through deflection, jokes, and solitary risk-taking rather than direct acknowledgment — contrast sharply with Aldo and Tina's open grieving over Juan's absence. Escalating kelpamine use during this period is part of the same pattern. [CANON FACT for the pattern; MY INTERPRETATION for framing it as a coping mechanism — see [EV-0054](../01-canon-timeline/ev-0054-foolish-forest-spiral.md)]
 
 ## Competencies
 
@@ -86,11 +86,12 @@ resolve.
 ## Important possessions
 
 - Purple dragon build next to the North's castle, which doubles as his kelpamine lab. Kelpamine (his own product) causes dizziness, invisibility, and mild euphoria. [CANON FACT, per author]
+- His own soul — as of [EV-0055](../01-canon-timeline/ev-0055-dark-cucurucho-ritual.md), bound to [Dark Cucurucho](dark-cucurucho.md) until a temple he's building is complete. [CANON FACT]
 
 ## Current status
 
-- **As of:** EV-0033 (last tracked event)
-- Missing companion to the recently-disappeared Juan (last person Juan spoke to). Member of The North; DNA-extraction claims disbelieved by his household; recently reconnected with the Federation. [Mixed — see individual events]
+- **As of:** EV-0055 (last tracked event)
+- Physically absent from the North — bound by a soul pact to Dark Cucurucho, building his temple, expected to be gone for weeks from the North's perspective though it will feel immediate to him. Left the North a note in case he doesn't return within two weeks. Was, until this point, effectively running the household alongside Tina in Aldo and Juan's absence. Escalating kelpamine use over the preceding weeks. [CANON FACT]
 
 ## Chronological character arc
 
@@ -109,6 +110,11 @@ resolve.
 | EV-0030 | Tells Juan first about the Federation approach | [CANON FACT] |
 | EV-0046/EV-0047 | Confronts Juan over the Maximus leak, then opens up about being scared/reassures Juan on the rooftop, expanding the plan to include him | [CANON FACT] |
 | EV-0032 | Monster hunting with Juan — one of their last easy, bantering conversations before his disappearance | [CANON FACT] |
+| EV-0033 | Has an unfinished, sincere exchange with Juan hours before he disappears; almost says something real and doesn't finish it | [CANON FACT] |
+| EV-0050/EV-0051 | Learns Juan was kidnapped; helps plan a response; lets himself be "killed" (staged) to avoid Regime suspicion | [CANON FACT] |
+| EV-0053 | Steps into Juan's role at the North alongside Tina (who takes Aldo's), after Aldo turns himself in | [CANON FACT] |
+| EV-0054 | Spirals — escalating kelpamine use, solitary forest camping, avoids acknowledging Juan's absence directly even to close friends | [CANON FACT] |
+| EV-0055 | Finds a temple built for Dark Cucurucho; sells his soul to it in exchange for a chance to get his friends back | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

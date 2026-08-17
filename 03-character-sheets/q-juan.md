@@ -81,8 +81,8 @@ None established yet.
 
 ## Current status
 
-- **As of:** EV-0033 (last tracked event)
-- Missing — summoned by the Federation and disappeared; last spoke with Foolish beforehand. [CANON FACT, per author, pending QNN confirmation]
+- **As of:** EV-0049 (last tracked event involving him directly)
+- Held captive by Cucurucho/the Federation, in a sparse white room, pending Aldo's "cooperation." Alone except for occasional guards and wither attacks; his teddy bear was confiscated and is being used to pressure Aldo. His attempt to reach out to Foolish was cut short. Whereabouts and condition unknown to the North as of the last tracked event on their side. [CANON FACT]
 
 ## Chronological character arc
 
@@ -103,6 +103,8 @@ None established yet.
 | EV-0027/EV-0028 | Freezes into a flat "orange" comparison for Foolish in the group setting, then confesses genuine appreciation for him privately afterward | [CANON FACT] |
 | EV-0045 | Defends Foolish to Maximus at length; Maximus names his feelings for Foolish directly; Juan denies it aloud, then privately can't fully dismiss it | [CANON FACT] |
 | EV-0046/EV-0047 | Apologizes for the Maximus leak, admits fear about the Federation plan, agrees to join it himself | [CANON FACT] |
+| EV-0033 | Lured by a fake secret-admirer invitation; has an unfinished, sincere goodbye with Foolish without realizing it's one; captured by Cucurucho | [CANON FACT] |
+| EV-0049 | Held in captivity for at least six days — cycling through denial, defiance, guilt (over Quackity), and eventual desperation; reaches for Foolish's name when he finally breaks | [CANON FACT] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |

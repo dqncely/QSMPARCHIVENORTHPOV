@@ -18,12 +18,12 @@ Foolish meets with Juan and Aldo in Juan's office and recounts what happened to 
 ## Consequences
 
 - Sets up "rehabilitation" as a recurring concern about Foolish specifically, feeding into the later group rehabilitation meeting ([EV-0027](ev-0027-north-rehabilitation-meeting.md)).
-- Whether Foolish's account is true (a real DNA-extraction incident, possibly Federation-related — see [EV-0030](ev-0030-federation-recruitment-arc.md)) or a hallucination is left genuinely open by the source. Not resolved here.
+- **Update (per author, 2026-08-17):** it was real. The room belonged to [Multi](../03-character-sheets/multi.md)'s lab. Juan and Aldo's disbelief at the time stands as recorded — it's their honest reaction in the moment — but the underlying event is confirmed true, not a hallucination. Flagged as a correction rather than silently rewritten: this file originally treated it as genuinely ambiguous.
 
 ## Unresolved questions
 
-- Was this real? If real, who extracted Foolish's DNA and why — connected to the Federation's later recruitment of him? [MY INTERPRETATION — plausible connection, not confirmed]
+- Why did Multi's lab extract Foolish's DNA? Not yet explained. [MY INTERPRETATION — plausible connection to the Federation's later recruitment of him, not confirmed]
 
 ## Related entries
 
-- [EV-0024](ev-0024-juan-demotes-foolish.md), [EV-0027](ev-0027-north-rehabilitation-meeting.md), [EV-0030](ev-0030-federation-recruitment-arc.md)
+- [EV-0024](ev-0024-juan-demotes-foolish.md), [EV-0027](ev-0027-north-rehabilitation-meeting.md), [EV-0030](ev-0030-federation-recruitment-arc.md), [Multi](../03-character-sheets/multi.md)

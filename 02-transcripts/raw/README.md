@@ -21,3 +21,8 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-maximus-oh-moment.md](2026-03-pending-maximus-oh-moment.md) | Maximus and Juan — "the oh moment" | Pending |
 | [2026-03-pending-foolish-confronts-juan-and-rooftop.md](2026-03-pending-foolish-confronts-juan-and-rooftop.md) | Foolish confronts Juan over the Maximus leak; rooftop conversation | Pending |
 | [2026-03-pending-monster-hunting-full-scene.md](2026-03-pending-monster-hunting-full-scene.md) | Full scene for EV-0032 (monster hunting, last days before disappearance) | Pending |
+| [2026-03-pending-juans-last-day-and-capture.md](2026-03-pending-juans-last-day-and-capture.md) | Juan's last day, final talk with Foolish, and capture | Pending |
+| [2026-03-pending-juans-captivity-days-1-6.md](2026-03-pending-juans-captivity-days-1-6.md) | Juan's captivity, Days 1–6 | Pending |
+| [2026-03-pending-foolish-response-and-north-reveal.md](2026-03-pending-foolish-response-and-north-reveal.md) | Foolish's distraction period; the North learns of the kidnapping | Pending |
+| [2026-03-pending-aldo-sacrifice-and-mirroring.md](2026-03-pending-aldo-sacrifice-and-mirroring.md) | Cucurucho's pressure on Aldo; Aldo turns himself in; Tina/Foolish mirror Juan/Aldo | Pending |
+| [2026-03-pending-foolish-spiral-and-dark-cucurucho.md](2026-03-pending-foolish-spiral-and-dark-cucurucho.md) | Foolish's forest spiral and the Dark Cucurucho ritual | Pending |

@@ -52,6 +52,13 @@ provisional vs. confirmed.
 | EV-0045 | Maximus and Juan — "the oh moment" | Pending | [ev-0045-maximus-oh-moment.md](ev-0045-maximus-oh-moment.md) |
 | EV-0046 | Foolish confronts Juan over the Maximus leak | Pending | [ev-0046-foolish-confronts-juan-maximus-leak.md](ev-0046-foolish-confronts-juan-maximus-leak.md) |
 | EV-0047 | The rooftop conversation ("cacahuatazo") | Pending | [ev-0047-rooftop-cacahuatazo.md](ev-0047-rooftop-cacahuatazo.md) |
-| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | Pending (same day as EV-0032) | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
-| EV-0032 | Foolish baits the mystery monster; Juan joins | Pending (same day as EV-0031) | [ev-0032-monster-baiting.md](ev-0032-monster-baiting.md) |
-| EV-0033 | Juan receives a Federation summons and disappears | Pending | [ev-0033-juan-disappearance.md](ev-0033-juan-disappearance.md) |
+| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | Pending (same day as EV-0032/EV-0033) | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
+| EV-0032 | Foolish baits the mystery monster; Juan joins | Pending (same day as EV-0031/EV-0033) | [ev-0032-monster-baiting.md](ev-0032-monster-baiting.md) |
+| EV-0033 | Juan's last day, final talk with Foolish, and capture | Pending | [ev-0033-juan-disappearance.md](ev-0033-juan-disappearance.md) |
+| EV-0049 | Juan's captivity, Days 1–6 | Pending | [ev-0049-juan-captivity-days-1-6.md](ev-0049-juan-captivity-days-1-6.md) |
+| EV-0050 | Foolish's distraction period; the North learns Juan was kidnapped | Pending | [ev-0050-foolish-distraction-and-north-reveal.md](ev-0050-foolish-distraction-and-north-reveal.md) |
+| EV-0051 | Aldo and Foolish plan a response; the staged deaths | Pending | [ev-0051-aldo-foolish-plan-and-staged-deaths.md](ev-0051-aldo-foolish-plan-and-staged-deaths.md) |
+| EV-0052 | Cucurucho pressures Aldo; Fariis is killed for real | Pending | [ev-0052-cucurucho-pressure-and-fariis.md](ev-0052-cucurucho-pressure-and-fariis.md) |
+| EV-0053 | Aldo turns himself in; Foolish and Tina step into their roles | Pending | [ev-0053-aldo-sacrifice-tina-foolish-mirror.md](ev-0053-aldo-sacrifice-tina-foolish-mirror.md) |
+| EV-0054 | Foolish's forest spiral | Pending (campfire scene precedes EV-0053) | [ev-0054-foolish-forest-spiral.md](ev-0054-foolish-forest-spiral.md) |
+| EV-0055 | Foolish finds the temple and sells his soul to Dark Cucurucho | Pending — most recent tracked event | [ev-0055-dark-cucurucho-ritual.md](ev-0055-dark-cucurucho-ritual.md) |
