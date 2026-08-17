@@ -68,4 +68,8 @@ provisional vs. confirmed.
 | EV-0059 | The office reunion: full debrief | Pending | [ev-0059-office-reunion-debrief.md](ev-0059-office-reunion-debrief.md) |
 | EV-0060 | Tina's reunion with Juan | Pending | [ev-0060-tina-reunion.md](ev-0060-tina-reunion.md) |
 | EV-0061 | Barbecue Monday: the reunion cookout | Pending | [ev-0061-barbecue-monday-reunion.md](ev-0061-barbecue-monday-reunion.md) |
-| EV-0062 | The camping trip: Camp Fatal Error | Pending — most recent tracked event | [ev-0062-camping-trip-fatal-error.md](ev-0062-camping-trip-fatal-error.md) |
+| EV-0062 | The camping trip: Camp Fatal Error | Pending | [ev-0062-camping-trip-fatal-error.md](ev-0062-camping-trip-fatal-error.md) |
+| EV-0063 | The Dark Cucurucho sighting | Pending | [ev-0063-dark-cucurucho-sighting.md](ev-0063-dark-cucurucho-sighting.md) |
+| EV-0064 | Foolish shows Juan the temple | Pending | [ev-0064-foolish-shows-juan-temple.md](ev-0064-foolish-shows-juan-temple.md) |
+| EV-0065 | A week away, the drunk return, and Cucurucho Land | Pending | [ev-0065-hiatus-week-away-and-return.md](ev-0065-hiatus-week-away-and-return.md) |
+| EV-0066 | Tina's altered clothes; growing tension | Pending — most recent tracked event | [ev-0066-tina-altered-clothes-tension.md](ev-0066-tina-altered-clothes-tension.md) |

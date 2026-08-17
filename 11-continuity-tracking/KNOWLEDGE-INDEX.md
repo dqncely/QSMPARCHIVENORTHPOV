@@ -19,3 +19,4 @@ file — this table only has room for the current snapshot.
 | REV-0007 | Circumstances of Juan's disappearance | Q!Juan, Q!Foolish (partial), Ishan (partial) | — | EV-0033 | [rev-0007-juan-disappearance-circumstances.md](rev-0007-juan-disappearance-circumstances.md) |
 | REV-0008 | Foolish's QSMP1 Federation history ("employee of the month") | Q!Foolish, Maximus, Q!Juan (partial) | — | Pre-timeline; referenced EV-0045 | [rev-0008-foolish-qsmp1-federation-history.md](rev-0008-foolish-qsmp1-federation-history.md) |
 | REV-0009 | Multi's secret Federation ties; Graf's chip | Multi | — (Graf may not know his own status) | Ongoing; referenced EV-0058 | [rev-0009-multi-federation-ties.md](rev-0009-multi-federation-ties.md) |
+| REV-0010 | Juan learns about the Dark Cucurucho soul pact | Q!Foolish, Q!Juan | — | EV-0064 | [rev-0010-juan-learns-dark-cucurucho-pact.md](rev-0010-juan-learns-dark-cucurucho-pact.md) |

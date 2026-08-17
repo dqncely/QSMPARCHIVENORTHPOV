@@ -13,6 +13,12 @@
 - Has no apparent sense of humor — a nervous joke from Foolish doesn't land. [CANON FACT]
 - States that Foolish's absence from the North will feel like weeks to them but immediate to Foolish, and that a "replacement" has already been arranged for his absence. [CANON FACT]
 
+## Additional canon facts
+
+- Foolish states he met Dark Cucurucho once before, on the first island (QSMP1) — meaning this isn't a purely QSMP2-native entity. [CANON FACT, per Foolish, EV-0063]
+- Sends glitchy, Federation-styled automated messages into public chat during his conflict with Foolish ("Thank you FoolishG!", later claimed as a "system glitch") — unclear if this means he can access/spoof Federation systems, or something else. [CANON FACT for the messages appearing; unresolved what they mean]
+- Nicknamed "Palpatine" by Foolish and Juan as part of a Star Wars-themed code system for discussing him in public. [CANON FACT, EV-0064]
+
 ## Unresolved questions
 
 - Is Dark Cucurucho the real Cucurucho corrupted/split, an unrelated entity that's taken his face and voice, or something else entirely? Not resolved — flagged rather than assumed identical to or separate from [Cucurucho](cucurucho.md).

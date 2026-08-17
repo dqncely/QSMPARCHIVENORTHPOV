@@ -34,3 +34,7 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-barbecue-monday-reunion.md](2026-03-pending-barbecue-monday-reunion.md) | Barbecue Monday — the reunion cookout (song lyrics not reproduced) | Pending |
 | [2026-03-pending-340-part-plan-and-night.md](2026-03-pending-340-part-plan-and-night.md) | The "340-part plan" and the night after | Pending |
 | [2026-03-pending-camping-trip-fatal-error.md](2026-03-pending-camping-trip-fatal-error.md) | The camping trip — Camp Fatal Error | Pending |
+| [2026-03-pending-dark-cucurucho-sighting.md](2026-03-pending-dark-cucurucho-sighting.md) | The Dark Cucurucho sighting | Pending |
+| [2026-03-pending-foolish-shows-juan-temple.md](2026-03-pending-foolish-shows-juan-temple.md) | Foolish shows Juan the temple | Pending |
+| [2026-03-pending-hiatus-week-away-and-return.md](2026-03-pending-hiatus-week-away-and-return.md) | Island hiatus mechanics; a week away; the drunk return; Cucurucho Land | Pending |
+| [2026-03-pending-tina-altered-clothes-tension.md](2026-03-pending-tina-altered-clothes-tension.md) | Tina's altered clothes; the tattoo; growing tension | Pending |

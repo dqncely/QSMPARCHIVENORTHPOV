@@ -25,4 +25,8 @@
 
 ## My interpretation
 
-This is a genuine, currently-unresolved contradiction in the source material — worth preserving as dramatic tension rather than smoothing over. See also [REV pending — Estupidog's death, who's really responsible].
+This is a genuine, currently-unresolved contradiction in the source material — worth preserving as dramatic tension rather than smoothing over. See also [REV-0006](../11-continuity-tracking/rev-0006-estupidog-death-responsibility.md).
+
+## Relationship to Juan (update)
+
+By [EV-0063](../01-canon-timeline/ev-0063-dark-cucurucho-sighting.md), Juan's earlier warmth toward Tubbo (EV-0010, "I like him better than Foolish") has flipped into real dislike — Tubbo's repeated minimizing of Foolish's danger ("he's a totem of undying, bestie") and general self-absorption during a moment of Juan's genuine fear read as the turning point. [CANON FACT for the dislike; MY INTERPRETATION for pinpointing the cause]

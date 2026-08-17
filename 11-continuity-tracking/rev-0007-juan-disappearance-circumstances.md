@@ -31,7 +31,15 @@ The North's core group (Foolish, Aldo, Roier, Alondra, later Tina) all know by [
 - The exact terms of what would actually secure Juan's release are unclear even to Aldo and Foolish as of the last tracked event — the Federation rejected Aldo's self-sacrifice specifically because it had to be Foolish doing the killing, and that condition hasn't been met.
 - What happened to Quackity and whether he ever received Juan's Day 5 message is not resolved.
 
+## Update
+
+**Superseded on one point by [REV-0010](rev-0010-juan-learns-dark-cucurucho-pact.md):**
+as of [EV-0064](../01-canon-timeline/ev-0064-foolish-shows-juan-temple.md),
+Juan has been told directly about Foolish's Dark Cucurucho soul pact —
+the "Juan doesn't know" status noted elsewhere in this file's history no
+longer holds as of that event.
+
 ## Related entries
 
-- [EV-0033](../01-canon-timeline/ev-0033-juan-disappearance.md), [EV-0049](../01-canon-timeline/ev-0049-juan-captivity-days-1-6.md), [EV-0052](../01-canon-timeline/ev-0052-cucurucho-pressure-and-fariis.md), [EV-0053](../01-canon-timeline/ev-0053-aldo-sacrifice-tina-foolish-mirror.md), [EV-0055](../01-canon-timeline/ev-0055-dark-cucurucho-ritual.md)
-- [Q!Foolish & Q!Juan](../04-relationship-sheets/q-foolish-and-q-juan.md)
+- [EV-0033](../01-canon-timeline/ev-0033-juan-disappearance.md), [EV-0049](../01-canon-timeline/ev-0049-juan-captivity-days-1-6.md), [EV-0052](../01-canon-timeline/ev-0052-cucurucho-pressure-and-fariis.md), [EV-0053](../01-canon-timeline/ev-0053-aldo-sacrifice-tina-foolish-mirror.md), [EV-0055](../01-canon-timeline/ev-0055-dark-cucurucho-ritual.md), [EV-0064](../01-canon-timeline/ev-0064-foolish-shows-juan-temple.md)
+- [Q!Foolish & Q!Juan](../04-relationship-sheets/q-foolish-and-q-juan.md), [REV-0010](rev-0010-juan-learns-dark-cucurucho-pact.md)

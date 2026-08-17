@@ -78,7 +78,9 @@ Not yet established.
 
 ## Important possessions
 
-None established yet.
+- A new art shop, opened impulsively post-captivity — does portrait commissions (Vegetta and Ash, Foolish for one netherite ingot). [CANON FACT]
+- A small butterfly tattoo on his lower torso — first shown on-screen in [EV-0066](../01-canon-timeline/ev-0066-tina-altered-clothes-tension.md), not otherwise explained. [CANON FACT]
+- Teddy, his stuffed bear — confiscated during captivity ([EV-0049](../01-canon-timeline/ev-0049-juan-captivity-days-1-6.md)); status since his release not yet confirmed.
 
 ## Current status
 
@@ -109,6 +111,8 @@ None established yet.
 | EV-0056 | Released; returns home hurt, disoriented, and compulsively fixated on house upkeep; learns Aldo never came back | [CANON FACT] |
 | EV-0058/EV-0059 | Reunites with Foolish; admits for the first time to anyone that he's afraid to go outside; accepts a camping invitation from him | [CANON FACT] |
 | EV-0062 | Spends a full night facing his fear of the outdoors at Foolish's campsite, scared but supported | [CANON FACT] |
+| EV-0064 | Learns about the Dark Cucurucho soul pact; rejects the cost outright, wants an alternative plan | [CANON FACT] |
+| EV-0066 | Wears clothes altered by Tina (short shorts, crop top); a butterfly tattoo is seen by Foolish for the first time | [CANON FACT] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |

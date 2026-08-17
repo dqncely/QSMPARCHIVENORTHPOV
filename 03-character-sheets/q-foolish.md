@@ -118,6 +118,9 @@ resolve.
 | EV-0058 | Returns with no memory of the gap; reunites with Juan, deflects Federation/coordinate questions successfully | [CANON FACT] |
 | EV-0059 | Full debrief with Juan; invites him camping specifically to help with his new fear of the outdoors | [CANON FACT] |
 | EV-0062 | Takes Juan camping; genuinely protective and reassuring throughout, still dodges the coordinates question a second time | [CANON FACT] |
+| EV-0063 | Encounters Dark Cucurucho with Juan; disappears overnight, worrying him | [CANON FACT] |
+| EV-0064 | Finally tells Juan everything about the temple and the soul risk; Juan flatly rejects the cost | [CANON FACT] |
+| EV-0066 | Sees Juan in altered clothes; notices a tattoo; visibly affected, doesn't act on it | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

@@ -49,6 +49,17 @@ up and enforced by Juan: [CANON FACT]
 - Rival/adjacent faction: [The Regime](the-regime.md)
 - Events: see [`01-canon-timeline/INDEX.md`](../01-canon-timeline/INDEX.md) — most tracked events from EV-0002 onward involve The North.
 
+## Island mechanics: leave/hiatus policy
+
+Per author: island members are allowed limited leave for special
+occasions — weddings, important events, and even vacations for more
+popular members (e.g. Katie B.) — but are required to return, willingly
+or by force, sometimes without memory of how they got back. In-universe
+purpose, per author: avoiding suspicion from real-world family/friends
+members may have outside the island. [MY INTERPRETATION — general
+worldbuilding, not a specific dated event; explains various unexplained
+absences/returns across the timeline, e.g. [EV-0065](../01-canon-timeline/ev-0065-hiatus-week-away-and-return.md).]
+
 ## See also (interpretation)
 
 - Much of the internal hierarchy language ("plus plus," "deluxe") reads as bit/joke titling as much as literal rank — worth revisiting once more direct dialogue about the hierarchy is available.
