@@ -11,11 +11,23 @@ from the relevant character sheet.
 - One file per character.
 - Canon facts must cite a **Source** (transcript, timeline entry, or
   official material).
-- Keep a clear line between "what they've said/done on stream" and "what I
-  think that means" — the latter goes in interpretations, not here.
+- Every claim carries a tag from
+  [`../CERTAINTY-LEVELS.md`](../CERTAINTY-LEVELS.md) —
+  `[CANON FACT]`, `[STRONG INFERENCE]`, or `[MY INTERPRETATION]`.
+  `[FIC ADDITION]` is only allowed inside the sheet's "Writing notes"
+  section, clearly marked — never elsewhere in the file.
+- The "Canon evidence" and "My interpretation" sections near the bottom of
+  each sheet consolidate the fact/theory split at a glance; they
+  summarize, they don't replace, the inline tags above them.
+- Knowledge-state tables (what the character knows, what the audience
+  knows that they don't) key off Event IDs from
+  [`../01-canon-timeline/`](../01-canon-timeline) so they stay anchored to
+  actual chronology.
 - File name = character's commonly-used name, `kebab-case.md`.
 
 ## Template
 
 Copy [`_template-character.md`](_template-character.md) for each new
-character.
+character. It's built to also serve as a long-term characterization
+reference for an AI writing assistant — the "Writing notes" section at the
+end exists specifically for that.
