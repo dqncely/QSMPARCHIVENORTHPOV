@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0020
-- **Date:** Unknown — pending QNN date-pass.
+- **Date:** 2026-03-30 16:24 [CANON FACT, QNN recap]
 - **Chronological position:** Directly after [EV-0019](ev-0019-office-rivalry-flooding.md).
-- **Certainty level (overall):** Confirmed content, unconfirmed date.
+- **Certainty level (overall):** Confirmed content and QNN-supported date.
 
 ## Participants
 
@@ -31,3 +31,7 @@ Foolish gets revenge on Juan for the office flooding by filling Juan's new offic
 ## Related entries
 
 - [EV-0019](ev-0019-office-rivalry-flooding.md)
+
+## Source
+
+- QNN, 2026-03-30 16:24:47 — https://x.com/QNNbreaking/status/2038714073387585588

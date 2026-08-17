@@ -39,10 +39,14 @@ Protecting/defending The North militarily; downplays risk of Regime retaliation 
 | EV-0052 | Pressured directly by Cucurucho with proof of Juan's captivity and a kill-deadline; kills Fariis (for real) after being caught spying | [CANON FACT] |
 | EV-0053 | Turns himself in rather than attempt the kill-task alone; hands his rank to Tina | [CANON FACT] |
 | EV-0057 | Forced to watch Juan's torture; slowly brainwashed into believing the North doesn't want him back; hurts Juan and attacks the returning Nachos once physically free | [CANON FACT, per author] |
+| EV-0071 | Receives a riddle trail while Tina is separately instructed to help him | [CANON FACT] |
+| EV-0072 | Gives Juan counsel after Juan's conflict with Tina | [CANON FACT] |
+| EV-0073 | Uses Federation-backed pressure to demand payment from Juan and Mi Arte | [CANON FACT] |
+| EV-0075 | Attacks Foolish and enters a destructive confrontation with Tina | [CANON FACT] |
 
 ## Relationships
 
-- [Q!Juan & Q!Aldo] — not yet a dedicated sheet; Juan defers to Aldo's authority on war matters and defended Foolish to him during the Federation-recruitment arc (per author-provided context).
+- [Q!Juan & Q!Aldo](../04-relationship-sheets/q-juan-and-q-aldo.md) — military trust and familial loyalty deteriorate into coercion after Aldo's captivity and estrangement.
 - [Q!Roier & Q!Aldo] — Roier grows more sympathetic to Aldo as Aldo becomes more isolated within the North. [MY INTERPRETATION]
 
 ## Canon evidence

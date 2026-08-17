@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0023
-- **Date:** Unknown — pending QNN date-pass.
+- **Date:** 2026-04-02 15:31 [CANON FACT, QNN recap]
 - **Chronological position:** Per author's original ordering, after [EV-0022](ev-0022-cucurucho-potion-attack-juan.md).
-- **Certainty level (overall):** Confirmed content, unconfirmed date.
+- **Certainty level (overall):** Confirmed content and QNN-supported date.
 
 ## Participants
 
@@ -29,3 +29,7 @@ Juan is run over by the train, apparently driven by Foolish, in front of Tubbo. 
 ## Related entries
 
 - [Q!Foolish](../03-character-sheets/q-foolish.md), [Q!Tubbo](../03-character-sheets/q-tubbo.md), [EV-0022](ev-0022-cucurucho-potion-attack-juan.md)
+
+## Source
+
+- QNN, 2026-04-02 15:31:58 — https://x.com/QNNbreaking/status/2039787948401406063

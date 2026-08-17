@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0026
-- **Date:** Unknown — pending QNN date-pass.
+- **Date:** 2026-03-26 18:18 [CANON FACT, QNN recap]
 - **Chronological position:** Per author's original ordering, after [EV-0025](ev-0025-foolish-dna-extraction-confession.md).
-- **Certainty level (overall):** Confirmed content, unconfirmed date.
+- **Certainty level (overall):** Confirmed content and QNN-supported date.
 
 ## Participants
 
@@ -22,3 +22,7 @@ A heated argument breaks out in the North mansion: Aldo accuses Molly of betraya
 ## Related entries
 
 - [Q!Aldo](../03-character-sheets/q-aldo.md), [Q!Molly](../03-character-sheets/q-molly.md)
+
+## Source
+
+- QNN, 2026-03-26 18:18:40 — https://x.com/QNNbreaking/status/2037293183483420957

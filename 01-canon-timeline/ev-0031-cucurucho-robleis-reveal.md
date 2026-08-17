@@ -3,13 +3,13 @@
 ## Identity
 
 - **Event ID:** EV-0031
-- **Date:** Unknown — pending QNN date-pass.
+- **Date:** 2026-04-20 19:12 [CANON FACT, QNN recap]
 - **Chronological position:** Per author's original ordering, after [EV-0030](ev-0030-federation-recruitment-arc.md). Author confirms this is the **same day** as [EV-0032](ev-0032-monster-baiting.md) (monster hunting) and shortly before [EV-0033](ev-0033-juan-disappearance.md) — one of Juan's last days before disappearing.
-- **Certainty level (overall):** Mixed — author memory, pending QNN confirmation.
+- **Certainty level (overall):** Core reveal, meeting, and Abueloier consultation confirmed by QNN recap; internal emotional readings remain interpretation.
 
 ## Participants
 
-- **Characters present:** Q!Juan, Q!Roier, [Abueloier](../03-character-sheets/abueloier.md). [MY INTERPRETATION — pending confirmation]
+- **Characters present:** Q!Juan, Q!Roier, [Abueloier](../03-character-sheets/abueloier.md), and North members present at Juan's urgent meeting. [CANON FACT, QNN recap]
 
 ## Summary
 
@@ -23,3 +23,7 @@ Juan discovers, via a QSMP TCG card, that his encounters with "Cucurucho" were n
 ## Related entries
 
 - [EV-0007](ev-0007-juan-awaits-cucurucho.md), [EV-0008](ev-0008-cucurucho-appears-off-robleis-vanishes.md), [Q!Robleis](../03-character-sheets/q-robleis.md), [Cucurucho](../03-character-sheets/cucurucho.md), [Abueloier](../03-character-sheets/abueloier.md), [REV-0005](../11-continuity-tracking/rev-0005-cucurucho-is-robleis.md)
+
+## Source
+
+- QNN, 2026-04-20 19:12:04 — https://x.com/QNNbreaking/status/2046366317393961220

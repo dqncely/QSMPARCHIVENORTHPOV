@@ -2,7 +2,7 @@
 
 - **Revelation ID:** REV-0005
 - **Origin event:** [EV-0037](../01-canon-timeline/ev-0037-robleis-cucurucho-first-date.md) (first confirmed instance — the "marriage proposal" date); roots in [EV-0036](../01-canon-timeline/ev-0036-juan-segundo-almando-cucurucho-fascination.md); further instances at [EV-0007](../01-canon-timeline/ev-0007-juan-awaits-cucurucho.md)/[EV-0008](../01-canon-timeline/ev-0008-cucurucho-appears-off-robleis-vanishes.md) (possibly, not confirmed as the same recurrence); reveal at [EV-0031](../01-canon-timeline/ev-0031-cucurucho-robleis-reveal.md).
-- **Certainty level (overall):** Mixed. EV-0037 is now a directly transcribed (if fragmentary) instance of Robleis playing Cucurucho — [CANON FACT] per author, though the exact date is unconfirmed and the original full transcript is lost. Whether EV-0007/EV-0008 is the *same* ongoing charade or a separate incident remains unconfirmed. The TCG-card reveal (EV-0031) is [MY INTERPRETATION], pending QNN date confirmation.
+- **Certainty level (overall):** Confirmed at the reveal level. EV-0037 is a directly transcribed (if fragmentary) instance of Robleis playing Cucurucho, and QNN confirms the TCG-card reveal at EV-0031 on 2026-04-20. Whether every earlier Cucurucho appearance was part of the same impersonation remains unresolved.
 
 ## The information
 
@@ -13,19 +13,19 @@ Juan's romantic/social encounters with "Cucurucho" were, at least at some point,
 | Character | Learned when (Event ID / date) | Learned via | Tag |
 |---|---|---|---|
 | Q!Robleis | From EV-0037 (he did it) | Firsthand | [CANON FACT, per author] |
-| Q!Juan | EV-0031 | QSMP TCG card | [MY INTERPRETATION] |
+| Q!Juan | EV-0031 / 2026-04-20 | QSMP TCG card | [CANON FACT] |
 
 ## Who they've told
 
 | Told by | Told to | When (Event ID / date) | Tag |
 |---|---|---|---|
-| Q!Juan | North members present at his urgent meeting | EV-0031 | [MY INTERPRETATION] |
+| Q!Juan | North members present at his urgent meeting | EV-0031 | [CANON FACT] |
 
 ## Who incorrectly believes something else
 
 | Character | False belief | Why they believe it | Since when (Event ID) | Corrected? (Event ID or "Not yet") | Tag |
 |---|---|---|---|---|---|
-| Q!Juan (prior to EV-0031) | Believed he had a real, mutual relationship with the actual Cucurucho | Robleis's impersonation | EV-0007/EV-0008 | EV-0031 | [MY INTERPRETATION] |
+| Q!Juan (prior to EV-0031) | Believed he had a real, mutual relationship with the actual Cucurucho | Robleis's impersonation | EV-0007/EV-0008 | EV-0031 | [CANON FACT] |
 
 ## Who still doesn't know
 

@@ -1,5 +1,9 @@
 # Continuity Tracking
 
+## Source audits
+
+- [QNN cross-reference — 2026-08-17 import](qnn-cross-reference-2026-08-17.md)
+
 The canonical answer to "who knows what, and since when?" — tracked across
 *all* characters in one place, so it doesn't drift out of sync between
 individual character sheets. Character sheets

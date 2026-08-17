@@ -3,7 +3,7 @@
 ## Identity
 
 - **Event ID:** EV-0067
-- **Date:** Unknown — pending QNN cross-reference
+- **Date:** 2026-05-20 18:46 [CANON FACT, QNN recap]
 - **Chronological position:** After [EV-0066](ev-0066-tina-altered-clothes-tension.md); the first entry in the Graf-date trilogy
 - **Certainty:** Mixed: spoken actions/dialogue are [CANON FACT]; supplied private thoughts are [MY INTERPRETATION]
 
@@ -39,4 +39,4 @@ Foolish serves as Juan's hidden safety person, coach, and witness throughout. Hi
 
 - [Reveal transcript](../02-transcripts/raw/2026-03-pending-el-grifoolish-and-graf-reveal.md)
 - [Continuation](../02-transcripts/raw/2026-03-pending-graf-date-part-1-continuation.md)
-
+- QNN, 2026-05-20 18:46:32 — https://x.com/QNNbreaking/status/2057231528237691244

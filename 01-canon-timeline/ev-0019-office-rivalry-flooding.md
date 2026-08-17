@@ -3,7 +3,7 @@
 ## Identity
 
 - **Event ID:** EV-0019
-- **Date:** Unknown — pending QNN date-pass. Author calls this "the earliest [transcript] I have... the start of the office wars."
+- **Date:** 2026-03-29 16:38 [CANON FACT, QNN recap]
 - **Chronological position:** Per author's original ordering, after [EV-0018](ev-0018-alarm-chaos-regime-zone.md); occurs when Foolish first receives his "second in command plus" promotion. Possibly connected to [EV-0006](ev-0006-juan-jealousy-death-threats.md) (2026-03-18, jealousy over a "segundo al mando plus" figure) — not confirmed as the same title/moment, flagged rather than merged.
 - **Certainty level (overall):** Confirmed content — full verbatim transcript now available (previously paraphrase-only).
 
@@ -53,3 +53,7 @@ Foolish receives his "second in command plus" promotion and, without telling Jua
 ## Related entries
 
 - [EV-0006](ev-0006-juan-jealousy-death-threats.md), [EV-0018](ev-0018-alarm-chaos-regime-zone.md), [EV-0020](ev-0020-snow-golem-bee-prank-war.md), [Ishan](../03-character-sheets/ishan.md)
+
+## Source
+
+- QNN, 2026-03-29 16:38:51 — https://x.com/QNNbreaking/status/2038355227607547945

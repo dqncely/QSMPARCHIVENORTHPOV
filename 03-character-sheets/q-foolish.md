@@ -190,3 +190,6 @@ state them directly.
 - Open craft questions: what "maybe take them down" means, and when (or
   whether) it surfaces in-story.
 - Intoxication reference (writing guidance, not a canon event): Foolish becomes clingier and more physically touch-oriented, leans in subconsciously, enters a stumbling caretaker mode, talks more and can become too honest, and treats intoxication partly as another limit-testing experience. He may appear coherent because he goes with the flow rather than because he is sober. [MY INTERPRETATION / WRITING NOTE]
+- Later QNN arc: builds a prison for Dark Cucurucho and discovers Pepino and Tomate confined inside; tells Tubbo he did not know the intended prisoners but shows little immediate objection. [CANON FACT, EV-0077]
+- Defies a direct order from Cucurucho and helps Quackity escape through the Nether, exposing his temple and prompting permanent Federation surveillance. [CANON FACT, EV-0078]
+- Multi later identifies him to Cucurucho as the temple's builder. [CANON FACT, EV-0079]

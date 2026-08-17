@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0025
-- **Date:** Unknown — pending QNN date-pass.
+- **Date:** 2026-03-26 17:58 [CANON FACT, QNN recap]
 - **Chronological position:** Per author's original ordering, after [EV-0024](ev-0024-juan-demotes-foolish.md).
-- **Certainty level (overall):** Confirmed content, unconfirmed date.
+- **Certainty level (overall):** Confirmed content and QNN-supported date.
 
 ## Participants
 
@@ -27,3 +27,7 @@ Foolish meets with Juan and Aldo in Juan's office and recounts what happened to 
 ## Related entries
 
 - [EV-0024](ev-0024-juan-demotes-foolish.md), [EV-0027](ev-0027-north-rehabilitation-meeting.md), [EV-0030](ev-0030-federation-recruitment-arc.md), [Multi](../03-character-sheets/multi.md)
+
+## Source
+
+- QNN, 2026-03-26 17:58:04 — https://x.com/QNNbreaking/status/2037287997255647461

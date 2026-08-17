@@ -22,7 +22,6 @@ provisional vs. confirmed.
 | EV-0006 | Juan's jealousy over "segundo al mando plus," death threats | 2026-03-18 | [ev-0006-juan-jealousy-death-threats.md](ev-0006-juan-jealousy-death-threats.md) |
 | EV-0039 | Foolish and Juan's first fight — the room-sign rank war | Pending (after EV-0006) | [ev-0039-foolish-juan-first-fight-sign-war.md](ev-0039-foolish-juan-first-fight-sign-war.md) |
 | EV-0040 | Camila Camello | Pending (after EV-0039) | [ev-0040-camila-camello.md](ev-0040-camila-camello.md) |
-| EV-0019 | Foolish's "second in command plus" promotion; builds a replica of Juan's office | Pending (near EV-0006) | [ev-0019-office-rivalry-flooding.md](ev-0019-office-rivalry-flooding.md) |
 | EV-0007 | Juan awaits a date with Cucurucho | 2026-03-19 | [ev-0007-juan-awaits-cucurucho.md](ev-0007-juan-awaits-cucurucho.md) |
 | EV-0008 | Cucurucho appears "off," Robleis vanishes simultaneously | 2026-03-19 | [ev-0008-cucurucho-appears-off-robleis-vanishes.md](ev-0008-cucurucho-appears-off-robleis-vanishes.md) |
 | EV-0041 | Katie B. forced relationship therapy | Pending (after EV-0019/EV-0020) | [ev-0041-katie-b-therapy.md](ev-0041-katie-b-therapy.md) |
@@ -36,15 +35,16 @@ provisional vs. confirmed.
 | EV-0014 | Roier/Juan "Osito Bimbo" crossover; psychologist suggested | 2026-03-22 | [ev-0014-osito-bimbo-crossover.md](ev-0014-osito-bimbo-crossover.md) |
 | EV-0015 | North confronts Ash over Estupidog; battle breaks out | 2026-03-23 | [ev-0015-ash-battle-estupidog-confrontation.md](ev-0015-ash-battle-estupidog-confrontation.md) |
 | EV-0016 | Ash and Juan hold peace talks; "flor de la paz" given | 2026-03-23 (ordering vs. EV-0015 disputed) | [ev-0016-ash-peace-talks-flower.md](ev-0016-ash-peace-talks-flower.md) |
-| EV-0017 | Ash's train stolen; "Juan, Juan, I've got the train!" | Pending | [ev-0017-train-theft-foolish-got-the-train.md](ev-0017-train-theft-foolish-got-the-train.md) |
+| EV-0017 | Ash's train stolen; "Juan, Juan, I've got the train!" | 2026-03-23 | [ev-0017-train-theft-foolish-got-the-train.md](ev-0017-train-theft-foolish-got-the-train.md) |
 | EV-0018 | Alarm chaos in the Regime zone | Pending | [ev-0018-alarm-chaos-regime-zone.md](ev-0018-alarm-chaos-regime-zone.md) |
-| EV-0020 | Snow golem prank, then bee-infestation prank war | Pending | [ev-0020-snow-golem-bee-prank-war.md](ev-0020-snow-golem-bee-prank-war.md) |
+| EV-0025 | Foolish's DNA-extraction story disbelieved; "rehabilitation" suggested | 2026-03-26 | [ev-0025-foolish-dna-extraction-confession.md](ev-0025-foolish-dna-extraction-confession.md) |
+| EV-0026 | Aldo accuses Molly of betrayal; Juan sides with Molly | 2026-03-26 | [ev-0026-aldo-accuses-molly-betrayal.md](ev-0026-aldo-accuses-molly-betrayal.md) |
+| EV-0019 | Foolish's "second in command plus" promotion; builds a replica of Juan's office | 2026-03-29 | [ev-0019-office-rivalry-flooding.md](ev-0019-office-rivalry-flooding.md) |
+| EV-0020 | Snow golem prank, then bee-infestation prank war | 2026-03-30 | [ev-0020-snow-golem-bee-prank-war.md](ev-0020-snow-golem-bee-prank-war.md) |
 | EV-0021 | Vegetta angry at Juan over construction criticism | Pending | [ev-0021-vegetta-upset-construction-criticism.md](ev-0021-vegetta-upset-construction-criticism.md) |
 | EV-0022 | Cucurucho attacks Juan with a potion and black entities | Pending | [ev-0022-cucurucho-potion-attack-juan.md](ev-0022-cucurucho-potion-attack-juan.md) |
-| EV-0023 | Juan run over by the train (driven by Foolish); ghost demands netherite | Pending | [ev-0023-juan-run-over-by-train.md](ev-0023-juan-run-over-by-train.md) |
+| EV-0023 | Juan run over by the train (driven by Foolish); ghost demands netherite | 2026-04-02 | [ev-0023-juan-run-over-by-train.md](ev-0023-juan-run-over-by-train.md) |
 | EV-0024 | Juan demotes Foolish; public shouting match | Pending | [ev-0024-juan-demotes-foolish.md](ev-0024-juan-demotes-foolish.md) |
-| EV-0025 | Foolish's DNA-extraction story disbelieved; "rehabilitation" suggested | Pending | [ev-0025-foolish-dna-extraction-confession.md](ev-0025-foolish-dna-extraction-confession.md) |
-| EV-0026 | Aldo accuses Molly of betrayal; Juan sides with Molly | Pending | [ev-0026-aldo-accuses-molly-betrayal.md](ev-0026-aldo-accuses-molly-betrayal.md) |
 | EV-0027 | The North holds a rehabilitation retreat (beach campfire) | Pending | [ev-0027-north-rehabilitation-meeting.md](ev-0027-north-rehabilitation-meeting.md) |
 | EV-0028 | Juan's private confession to Foolish after the retreat | Pending | [ev-0028-juan-foolish-private-confession.md](ev-0028-juan-foolish-private-confession.md) |
 | ~~EV-0029~~ | ~~Abueloier's illness; heart-salad incident~~ — superseded, see EV-0043 | — | [ev-0029-abueloier-heart-salad.md](ev-0029-abueloier-heart-salad.md) |
@@ -52,17 +52,17 @@ provisional vs. confirmed.
 | EV-0045 | Maximus and Juan — "the oh moment" | Pending | [ev-0045-maximus-oh-moment.md](ev-0045-maximus-oh-moment.md) |
 | EV-0046 | Foolish confronts Juan over the Maximus leak | Pending | [ev-0046-foolish-confronts-juan-maximus-leak.md](ev-0046-foolish-confronts-juan-maximus-leak.md) |
 | EV-0047 | The rooftop conversation ("cacahuatazo") | Pending | [ev-0047-rooftop-cacahuatazo.md](ev-0047-rooftop-cacahuatazo.md) |
-| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | Pending (same day as EV-0032/EV-0033) | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
+| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | 2026-04-20 | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
 | EV-0032 | Foolish baits the mystery monster; Juan joins | Pending (same day as EV-0031/EV-0033) | [ev-0032-monster-baiting.md](ev-0032-monster-baiting.md) |
 | EV-0033 | Juan's last day, final talk with Foolish, and capture | Pending | [ev-0033-juan-disappearance.md](ev-0033-juan-disappearance.md) |
 | EV-0049 | Juan's captivity, Days 1–6 | Pending | [ev-0049-juan-captivity-days-1-6.md](ev-0049-juan-captivity-days-1-6.md) |
 | EV-0050 | Foolish's distraction period; the North learns Juan was kidnapped | Pending | [ev-0050-foolish-distraction-and-north-reveal.md](ev-0050-foolish-distraction-and-north-reveal.md) |
 | EV-0051 | Aldo and Foolish plan a response; the staged deaths | Pending | [ev-0051-aldo-foolish-plan-and-staged-deaths.md](ev-0051-aldo-foolish-plan-and-staged-deaths.md) |
-| EV-0052 | Cucurucho pressures Aldo; Fariis is killed for real | Pending | [ev-0052-cucurucho-pressure-and-fariis.md](ev-0052-cucurucho-pressure-and-fariis.md) |
+| EV-0052 | Cucurucho pressures Aldo; Fariis is killed for real | 2026-04-23 | [ev-0052-cucurucho-pressure-and-fariis.md](ev-0052-cucurucho-pressure-and-fariis.md) |
 | EV-0053 | Aldo turns himself in; Foolish and Tina step into their roles | Pending | [ev-0053-aldo-sacrifice-tina-foolish-mirror.md](ev-0053-aldo-sacrifice-tina-foolish-mirror.md) |
 | EV-0054 | Foolish's forest spiral | Pending (campfire scene precedes EV-0053) | [ev-0054-foolish-forest-spiral.md](ev-0054-foolish-forest-spiral.md) |
-| EV-0055 | Foolish finds the temple and sells his soul to Dark Cucurucho | Pending | [ev-0055-dark-cucurucho-ritual.md](ev-0055-dark-cucurucho-ritual.md) |
-| EV-0056 | Juan's return, Day 7 | Pending | [ev-0056-juan-return-day-7.md](ev-0056-juan-return-day-7.md) |
+| EV-0055 | Foolish finds the temple and sells his soul to Dark Cucurucho | 2026-04-30 | [ev-0055-dark-cucurucho-ritual.md](ev-0055-dark-cucurucho-ritual.md) |
+| EV-0056 | Juan's return, Day 7 | 2026-04-30 | [ev-0056-juan-return-day-7.md](ev-0056-juan-return-day-7.md) |
 | EV-0057 | The week Foolish was gone (Katie's wedding, Aldo's brainwashing, Tina's search) | Pending | [ev-0057-week-foolish-gone.md](ev-0057-week-foolish-gone.md) |
 | EV-0058 | Foolish's return; reunion at Multi's lab | Pending | [ev-0058-foolish-return-multis-lab.md](ev-0058-foolish-return-multis-lab.md) |
 | EV-0059 | The office reunion: full debrief | Pending | [ev-0059-office-reunion-debrief.md](ev-0059-office-reunion-debrief.md) |
@@ -73,7 +73,16 @@ provisional vs. confirmed.
 | EV-0064 | Foolish shows Juan the temple | Pending | [ev-0064-foolish-shows-juan-temple.md](ev-0064-foolish-shows-juan-temple.md) |
 | EV-0065 | A week away, the drunk return, and Cucurucho Land | Pending | [ev-0065-hiatus-week-away-and-return.md](ev-0065-hiatus-week-away-and-return.md) |
 | EV-0066 | Tina's altered clothes; growing tension | Pending — most recent tracked event | [ev-0066-tina-altered-clothes-tension.md](ev-0066-tina-altered-clothes-tension.md) |
-| EV-0067 | Graf reveals his feelings; Juan accidentally schedules a second date | Pending | [ev-0067-graf-first-date.md](ev-0067-graf-first-date.md) |
+| EV-0067 | Graf reveals his feelings; Juan accidentally schedules a second date | 2026-05-20 | [ev-0067-graf-first-date.md](ev-0067-graf-first-date.md) |
 | EV-0068 | Juan and Foolish scout Cucurucho Land for Graf's second date | Pending — most recent tracked event | [ev-0068-cucurucho-land-date-planning.md](ev-0068-cucurucho-land-date-planning.md) |
 | EV-0069 | Juan stalls Graf's second date and recruits Abueloier | Pending | [ev-0069-juan-stalls-graf-date.md](ev-0069-juan-stalls-graf-date.md) |
 | EV-0070 | Graf's second date with Juan and Abueloier | Pending — most recent tracked event | [ev-0070-graf-second-date.md](ev-0070-graf-second-date.md) |
+| EV-0071 | Tina and Aldo receive linked riddles | 2026-05-22 | [ev-0071-tina-aldo-riddles.md](ev-0071-tina-aldo-riddles.md) |
+| EV-0072 | Juan seeks Aldo's advice after conflict with Tina | 2026-05-29 | [ev-0072-juan-tina-rift-aldo-advice.md](ev-0072-juan-tina-rift-aldo-advice.md) |
+| EV-0073 | Aldo demands payment from Juan and Mi Arte | 2026-05-29 | [ev-0073-aldo-extorts-juan.md](ev-0073-aldo-extorts-juan.md) |
+| EV-0074 | Graf is pursued and urgently redirects Juan | 2026-06-03 | [ev-0074-graf-pursued-warns-juan.md](ev-0074-graf-pursued-warns-juan.md) |
+| EV-0075 | Aldo and Tina's conflict becomes destructive | 2026-06-06 | [ev-0075-aldo-tina-destructive-fight.md](ev-0075-aldo-tina-destructive-fight.md) |
+| EV-0076 | The North and Ash infiltrate Multi's laboratory | 2026-06-09 | [ev-0076-north-raids-multi-lab.md](ev-0076-north-raids-multi-lab.md) |
+| EV-0077 | Dark Cucurucho's prisoners and the failed rescue | 2026-06-12–16 | [ev-0077-dark-cucurucho-prison-rescue.md](ev-0077-dark-cucurucho-prison-rescue.md) |
+| EV-0078 | Quackity accepts Dark Cucurucho's bargain | 2026-07-01–06 | [ev-0078-quackity-dark-cucurucho-alliance.md](ev-0078-quackity-dark-cucurucho-alliance.md) |
+| EV-0079 | Multi exposes Dark Cucurucho's network to Cucurucho | 2026-07-07 | [ev-0079-multi-informs-cucurucho.md](ev-0079-multi-informs-cucurucho.md) |

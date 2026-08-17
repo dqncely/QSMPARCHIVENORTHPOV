@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0052
-- **Date:** Unknown.
+- **Date:** 2026-04-23 18:26–20:28 [CANON FACT, QNN recap sequence]
 - **Chronological position:** After [EV-0051](ev-0051-aldo-foolish-plan-and-staged-deaths.md); before [EV-0053](ev-0053-aldo-sacrifice-tina-foolish-mirror.md).
-- **Certainty level (overall):** Confirmed content per author; date pending.
+- **Certainty level (overall):** Confirmed content with QNN-supported date and sequence.
 
 ## Participants
 
@@ -38,3 +38,9 @@ Fariis, who'd been spying on this exchange, is caught and killed by Cucurucho on
 ## Related entries
 
 - [EV-0051](ev-0051-aldo-foolish-plan-and-staged-deaths.md), [EV-0053](ev-0053-aldo-sacrifice-tina-foolish-mirror.md), [Fariis](../03-character-sheets/fariis.md), [Cucurucho](../03-character-sheets/cucurucho.md)
+
+## Sources
+
+- QNN, teddy/sign — https://x.com/QNNbreaking/status/2047441953734721778
+- QNN, confirmation of Juan's kidnapping and Monday deadline — https://x.com/QNNbreaking/status/2047471343080272323
+- QNN, Fariis spying and confiscation — https://x.com/QNNbreaking/status/2047472687555944751

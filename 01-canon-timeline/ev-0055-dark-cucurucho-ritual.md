@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0055
-- **Date:** Unknown.
+- **Date:** 2026-04-30 19:49 [CANON FACT, QNN recap]
 - **Chronological position:** After [EV-0054](ev-0054-foolish-forest-spiral.md) — the most recent event in the currently-tracked arc. Ends on a deliberate cliffhanger, per the author.
-- **Certainty level (overall):** Confirmed content per author; date pending.
+- **Certainty level (overall):** Confirmed content and QNN-supported date.
 
 ## Participants
 
@@ -49,3 +49,7 @@ At the site, lightning begins striking as he builds, closer with each strike; wh
 ## Related entries
 
 - [EV-0054](ev-0054-foolish-forest-spiral.md), [EV-0023](ev-0023-juan-run-over-by-train.md), [EV-0051](ev-0051-aldo-foolish-plan-and-staged-deaths.md), [Dark Cucurucho](../03-character-sheets/dark-cucurucho.md), [Cucurucho](../03-character-sheets/cucurucho.md)
+
+## Source
+
+- QNN, 2026-04-30 19:49:39 — https://x.com/QNNbreaking/status/2049999652779438574

@@ -97,6 +97,13 @@ Not yet tracked.
 
 None yet — see caveat in "Canon status" above. This sheet should be revisited once Tina appears directly in a sourced/dated event.
 
+### QNN-confirmed later arc
+
+- EV-0071 directly links her mystery instructions to helping Aldo. [CANON FACT]
+- EV-0072 confirms a rupture with Juan involving perceived family loyalty and her unfinished Generalísima assignment. The report preserves Juan's grievance, not Tina's full perspective. [CANON FACT / POV LIMIT]
+- EV-0075 shows her intervening after Aldo attacks Foolish and fighting Aldo through a highly destructive escalation. [CANON FACT]
+- EV-0076 places her beside Juan, Foolish, and Ash in the infiltration of Multi's laboratory. [CANON FACT]
+
 ## My interpretation
 
 This entire sheet is the author's own character analysis and craft notes, provided as a "cleaned-up character sheet" rather than derived from a specific transcript or dated report. It should guide voice/characterization but not be cited as confirmed on-stream fact until a dated source shows her directly.

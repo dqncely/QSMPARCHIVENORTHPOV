@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0056
-- **Date:** Unknown — "Day 7" of captivity per author, though earlier entries logged as many as nine days; treat the exact day-count as approximate rather than contradictory.
+- **Date:** 2026-04-30 19:56 [CANON FACT, QNN recap] — described by QNN as one week; Juan's own day-count remains approximate.
 - **Chronological position:** Directly after [EV-0049](ev-0049-juan-captivity-days-1-6.md).
-- **Certainty level (overall):** Confirmed content per author; date pending.
+- **Certainty level (overall):** Confirmed content and QNN-supported return date.
 
 ## Participants
 
@@ -35,3 +35,7 @@ That night, alone in his office, Juan looks at a photo Foolish had left him and 
 ## Related entries
 
 - [EV-0049](ev-0049-juan-captivity-days-1-6.md), [EV-0057](ev-0057-week-foolish-gone.md), [Graf](../03-character-sheets/graf.md), [Alondrissa](../03-character-sheets/alondrissa.md)
+
+## Source
+
+- QNN, 2026-04-30 19:56:48 — https://x.com/QNNbreaking/status/2050001456070000670

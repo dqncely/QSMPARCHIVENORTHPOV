@@ -117,6 +117,10 @@ Not yet established.
 | EV-0068 | Plans the second date with Foolish at Cucurucho Land; easy banter contrasts with his nervousness around Graf | [CANON FACT for actions; MY INTERPRETATION for the contrast's romantic meaning] |
 | EV-0069 | Delays Graf's second date all day waiting for Foolish; confesses to Abueloier that Graf is only a friend and that he fears loving again | [CANON FACT] |
 | EV-0070 | Becomes inebriated during the date; admits fear of secrecy and extreme exclusivity needs; still cannot reject Graf and schedules a third date | [CANON FACT for statements/actions; MY INTERPRETATION for how fully he means each deterrent] |
+| EV-0072 | Seeks Aldo's advice after feeling Tina failed to prioritize him as family | [CANON FACT for his stated grievance; Tina's POV absent] |
+| EV-0073 | Faces Federation-backed payment demands from Aldo and tries to resolve the conflict alone | [CANON FACT] |
+| EV-0074 | Immediately tries to help when he sees Graf being pursued | [CANON FACT] |
+| EV-0076 | Joins Tina, Foolish, and Ash in the raid on Multi's lab; is subsequently reported dead | [CANON FACT at QNN-report level; outcome unresolved] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |

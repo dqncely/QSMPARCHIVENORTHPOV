@@ -3,9 +3,9 @@
 ## Identity
 
 - **Event ID:** EV-0017
-- **Date:** Unknown — pending QNN date-pass. **Flag: needs timestamp.**
-- **Chronological position:** Per author's original ordering, shortly after the Ash/Juan peace meeting ([EV-0016](ev-0016-ash-peace-talks-flower.md)) — Ash returns to Regime territory and discovers the theft. Not yet verified against actual dates.
-- **Certainty level (overall):** Confirmed content, unconfirmed date/exact placement. Full verbatim transcript now available (previously paraphrase-only).
+- **Date:** 2026-03-23 16:33 [CANON FACT, QNN recap]
+- **Chronological position:** Eleven minutes after the QNN post for the Ash/Juan peace meeting ([EV-0016](ev-0016-ash-peace-talks-flower.md)).
+- **Certainty level (overall):** Confirmed content and QNN-supported placement. Full verbatim transcript is also available.
 
 ## Participants
 
@@ -51,3 +51,7 @@ Ash confronts Juan alone in the mansion, axe drawn, demanding to know where the 
 ## Related entries
 
 - [EV-0016](ev-0016-ash-peace-talks-flower.md), [EV-0018](ev-0018-alarm-chaos-regime-zone.md), [Q!Ashswag](../03-character-sheets/q-ashswag.md)
+
+## Source
+
+- QNN, 2026-03-23 16:33:42 — https://x.com/QNNbreaking/status/2036179602268114999

@@ -7,7 +7,9 @@
 
 ## Personality
 
-Not yet established beyond the recorded conflict with Juan.
+- Fiercely resistant to coercive institutions: refuses Federation service even when refusal means indefinite captivity and Pepino is used as leverage. [CANON FACT, EV-0077]
+- Protective toward people classified as experiments, especially when he recognizes his own treatment in theirs. [CANON FACT, EV-0078]
+- Increasingly self-sacrificial: proposes carrying an implanted bomb to kill Cucurucho despite being explicitly warned he would die. [CANON FACT, EV-0078]
 
 ## Canon facts
 
@@ -21,6 +23,8 @@ Not yet established beyond the recorded conflict with Juan.
 |---|---|---|
 | EV-0012 | Argument with Juan over room-tidying; leaves the house upset | [CANON FACT] |
 | EV-0013 | Revealed by Juan to have planned to kill Roier alongside him | [CANON FACT — per Juan's account] |
+| EV-0077 | Refuses Cucurucho's coercive offer to work for the Federation; learns Multi collaborates with it | [CANON FACT] |
+| EV-0078 | Accepts Dark Cucurucho's bargain, rescues Colmena, steals the Teleport Universal, and proposes a suicide operation | [CANON FACT] |
 
 ## Secrets
 
@@ -31,3 +35,4 @@ Not yet established beyond the recorded conflict with Juan.
 ## Canon evidence
 
 - QNN recap posts, 2026-03-22 (argument) and 2026-03-22 21:14 (kill-plot reveal).
+- [EV-0077](../01-canon-timeline/ev-0077-dark-cucurucho-prison-rescue.md), [EV-0078](../01-canon-timeline/ev-0078-quackity-dark-cucurucho-alliance.md)

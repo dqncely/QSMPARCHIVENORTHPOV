@@ -20,6 +20,7 @@
 - Helpful, technically capable, multilingual, and protective of Juan's reputation; seriously tells Foolish not to call Juan a scumbag. [CANON FACT, EV-0068]
 - Persistent and literal during the second-date arc. Accepts Juan's delays, Katie's bow, Abueloier's chaperoning, and every attempted deterrent; responds to Juan's exclusivity demand by offering to abandon friends and stop working for Multi. [CANON FACT, EV-0069/EV-0070]
 - Conceals Juan's identity from Katie because Katie and Juan dislike one another. This secrecy unintentionally triggers Juan's fear of being hidden. [CANON FACT, EV-0070]
+- Later appears pursued by an unknown figure; Juan immediately tries to help, but Graf withholds an explanation and urgently directs him to Spawn. [CANON FACT, EV-0074]
 
 ## Related entries
 

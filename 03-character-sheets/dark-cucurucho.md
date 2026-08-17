@@ -18,6 +18,10 @@
 - Foolish states he met Dark Cucurucho once before, on the first island (QSMP1) — meaning this isn't a purely QSMP2-native entity. [CANON FACT, per Foolish, EV-0063]
 - Sends glitchy, Federation-styled automated messages into public chat during his conflict with Foolish ("Thank you FoolishG!", later claimed as a "system glitch") — unclear if this means he can access/spoof Federation systems, or something else. [CANON FACT for the messages appearing; unresolved what they mean]
 - Nicknamed "Palpatine" by Foolish and Juan as part of a Star Wars-themed code system for discussing him in public. [CANON FACT, EV-0064]
+- Claims Cucurucho is his brother and betrayer. This remains an attributed claim, not independently verified cosmology. [CANON FACT that he says it, EV-0078]
+- Interrogates Pepino about Federation experimentation, announces a clone program and planned army, and demonstrates an ability to pursue captives across dimensions. [CANON FACT, EV-0077]
+- Recruits Quackity as an infiltrator and says he will remain inside him to observe through his senses. [CANON FACT, EV-0078]
+- Gains the Teleport Universal and accepts Quackity's proposal for a suicide-bomb attack on Cucurucho. [CANON FACT, EV-0078]
 
 ## Unresolved questions
 
@@ -28,3 +32,4 @@
 ## Related entries
 
 - [EV-0055](../01-canon-timeline/ev-0055-dark-cucurucho-ritual.md), [Cucurucho](cucurucho.md)
+- [EV-0077](../01-canon-timeline/ev-0077-dark-cucurucho-prison-rescue.md), [EV-0078](../01-canon-timeline/ev-0078-quackity-dark-cucurucho-alliance.md)
