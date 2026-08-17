@@ -14,7 +14,9 @@
 
 | Event ID / date | What changed | Tag |
 |---|---|---|
-| EV-0001 (2026-03-14) | First meeting; warm, no tension | [CANON FACT] |
+| EV-0001 (2026-03-14) | First meeting (cruise ship); warm, no tension | [CANON FACT] |
+| EV-0034 (~2026-03-15) | First meeting *on the island*; Juan deliberately pushes past his English discomfort to talk to Foolish; Foolish shows him the dragon build | [CANON FACT] |
+| EV-0035 (~2026-03-15) | Foolish gives Juan his first kelpamine sample, out of convenience more than intention — an early, low-stakes act of trust/generosity | [CANON FACT] |
 | EV-0009 (2026-03-22) | First major breach of trust: Foolish deceives Juan about Estupidog's death; Juan resorts to psychological manipulation (staged haunting) to get the truth | [CANON FACT] |
 | EV-0011 (~2026-03-22) | Work as allies planning a Regime attack together | [CANON FACT] |
 | EV-0013 (2026-03-22) | Foolish physically defends Juan twice against Roier/Missa — first major act of protection | [CANON FACT] |
@@ -98,6 +100,7 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 | As of (Event ID) | How Foolish addresses Juan | How Juan addresses Foolish | Tag |
 |---|---|---|---|
 | EV-0001 | By name | By name | [CANON FACT] |
+| EV-0034 | Plain English, patient with Juan's discomfort | Broken English, visibly working at it — echoes Foolish's own phrasing back ("I'm good, I'm good..") rather than generating fresh responses | [CANON FACT] |
 
 Author has confirmed (2026-08-17) that this relationship eventually develops into a merged "Spanglish" mode of speaking specific to this pair — a genuine, gradual linguistic merge, not yet reflected in any single dated event. Contrast point: originally they'd "be yelling at each other in a language the other didn't understand," but by later points understand each other much more clearly. **Flag: this shift needs to be traced through specific dated events once available**, rather than treated as having "already happened" anywhere in the currently tracked timeline.
 

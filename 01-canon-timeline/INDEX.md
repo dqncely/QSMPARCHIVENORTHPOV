@@ -11,8 +11,13 @@ provisional vs. confirmed.
 |---|---|---|---|
 | EV-0001 | Cruise ship: Foolish reunites with Roier, meets Juan | 2026-03-14 (QSMP2 season start) | [ev-0001-cruise-ship-first-meeting.md](ev-0001-cruise-ship-first-meeting.md) |
 | EV-0002 | Vegetta begins North construction; Robleis/Molly/Juan/Roier collaborate | 2026-03-15 | [ev-0002-vegetta-construction-north-collab.md](ev-0002-vegetta-construction-north-collab.md) |
+| EV-0034 | Foolish and Juan's first meeting on the island | ~2026-03-15 | [ev-0034-foolish-juan-first-island-meeting.md](ev-0034-foolish-juan-first-island-meeting.md) |
+| EV-0035 | Foolish gives Juan his first kelpamine sample | ~2026-03-15 | [ev-0035-foolish-first-kelpamine-sample.md](ev-0035-foolish-first-kelpamine-sample.md) |
 | EV-0003 | Resistance attempts to recruit Juan against Vegetta | 2026-03-15 | [ev-0003-resistance-recruits-juan.md](ev-0003-resistance-recruits-juan.md) |
 | EV-0004 | Foolish rejects recruitment into "El Regimen" | 2026-03-15 | [ev-0004-foolish-rejects-regimen.md](ev-0004-foolish-rejects-regimen.md) |
+| EV-0036 | Juan named "Segundo Almando"; Cucurucho fascination begins | Pending | [ev-0036-juan-segundo-almando-cucurucho-fascination.md](ev-0036-juan-segundo-almando-cucurucho-fascination.md) |
+| EV-0037 | The first Cucurucho "date" — actually Robleis in disguise | Pending (before EV-0007) | [ev-0037-robleis-cucurucho-first-date.md](ev-0037-robleis-cucurucho-first-date.md) |
+| EV-0038 | Juan's Cucurucho ultimatum and monologue (with Teddy) | Pending | [ev-0038-juan-teddy-cucurucho-ultimatum.md](ev-0038-juan-teddy-cucurucho-ultimatum.md) |
 | EV-0005 | Vegetta assigns mansion rooms | 2026-03-18 | [ev-0005-room-assignments.md](ev-0005-room-assignments.md) |
 | EV-0006 | Juan's jealousy over "segundo al mando plus," death threats | 2026-03-18 | [ev-0006-juan-jealousy-death-threats.md](ev-0006-juan-jealousy-death-threats.md) |
 | EV-0007 | Juan awaits a date with Cucurucho | 2026-03-19 | [ev-0007-juan-awaits-cucurucho.md](ev-0007-juan-awaits-cucurucho.md) |

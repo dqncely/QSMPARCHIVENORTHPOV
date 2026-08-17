@@ -83,6 +83,8 @@ resolve.
 |---|---|---|
 | EV-0001 | Reunites with Roier; meets Juan for the first time; privately resolves not to get attached this time around | [CANON FACT] for the meeting itself; [MY INTERPRETATION] for the internal resolve |
 | EV-0002 | Plans to live with Vegetta; warmly received | [CANON FACT] |
+| EV-0034 | Meets Juan again, this time on the island itself; shows him the dragon build | [CANON FACT] |
+| EV-0035 | Gives Juan his first kelpamine sample | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

@@ -16,6 +16,8 @@
 
 | Event ID | What happens | Tag |
 |---|---|---|
+| EV-0036 | Real (presumed) Cucurucho gives Juan a flower — origin of Juan's fascination; whether this was really the real Cucurucho or already Robleis is unconfirmed | [MY INTERPRETATION] |
+| EV-0037 | Stands Juan up for a date; Robleis impersonates him instead, accepting a marriage proposal in character | [CANON FACT, per author, for Robleis's impersonation; whether the "real" Cucurucho was ever really involved at all remains unconfirmed] |
 | EV-0007 | Juan waits for a date; conflicting reports on whether Cucurucho arrives at all | [CANON FACT] |
 | EV-0008 | An entity claiming to be Cucurucho appears, seeming "off"; Robleis vanishes simultaneously | [CANON FACT] |
 

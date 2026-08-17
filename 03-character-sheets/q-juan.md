@@ -20,6 +20,8 @@ Not yet established.
 - Playful liar in low-stakes social moments (claims fluent English,
   immediately admits "Mentí." to a bystander). [CANON FACT]
 - Drawn to unusual people ("weirdos"). [MY INTERPRETATION — narration]
+- [MY INTERPRETATION, per author's analysis of EV-0038] In love, Juan is dramatic, loyal past the point of reason, self-mythologizing, and humiliation-resistant — until it suddenly collapses into rage. He can set a verbal boundary and then immediately start softening/reopening it. His own stated thesis: "Porque cuando yo amo, amo de verdad, cabrón" — love isn't casual for him, it's total commitment, even when the other person hasn't earned it.
+- [MY INTERPRETATION] Capable of real, sustained self-deception when he wants something to be true (see EV-0037) — doesn't register obviously strange behavior as suspicious when it conflicts with what he wants to believe.
 
 ## Speech patterns
 
@@ -37,17 +39,20 @@ Not yet established.
 
 ## Recurring phrases
 
-None established yet.
+- "Porque cuando yo amo, amo de verdad, cabrón." — thesis-statement-level line about how he loves. [CANON FACT, per author]
+- Affectionate calling-out for Cucurucho, in public chat and in person: "Cuqui." [CANON FACT, per author]
 
 ## Motivations
 
 - [MY INTERPRETATION] Fresh out of prison with nothing to return to;
   joined the cruise partly out of necessity, partly curiosity/openness to
   unusual people.
+- [MY INTERPRETATION, per EV-0038] Wants proof of being loved as much as he loves — exclusivity reads to him as evidence he's "enough."
 
 ## Fears / insecurities
 
-Not yet established.
+- [MY INTERPRETATION, per author's analysis of EV-0038] A long-standing (per Juan, "his whole life") fear that he always loves more than he's loved back. This is offered by the author as the root of his possessiveness/jealousy — not pure ego, but fear of always being the one giving more. If someone he loves has other loyalties or "special friends," his instinct reads that as proof he isn't enough.
+- This is also offered (by the author) as the reason a later situation with **Graf** — a North member with sincere, unreciprocated romantic interest in Juan — becomes a genuine crisis of conscience: Juan knows too well what loving intensely feels like, and doesn't want to be the person who receives that without returning it. See stub: [Graf](graf.md).
 
 ## Habits
 
@@ -80,7 +85,12 @@ None established yet.
 | Event ID | What happens for this character | Tag |
 |---|---|---|
 | EV-0001 | Meets Foolish for the first time via Roier; easy, warm first exchange, no rivalry yet | [CANON FACT] |
+| EV-0034 | First meeting with Foolish on the island itself; pushes past his comfort zone to make conversation in English | [CANON FACT] |
+| EV-0035 | Tries Foolish's first kelpamine sample; doesn't enjoy the effect but finds it interesting | [CANON FACT] |
 | EV-0003 | Resistance tries to recruit him against Vegetta; he refuses, protects "the family" | [CANON FACT] |
+| EV-0036 | Named "Segundo Almando"; Cucurucho's flower gift begins his fascination | [MY INTERPRETATION] |
+| EV-0037 | Waits all night for a Cucurucho date; Robleis impersonates Cucurucho; Juan proposes marriage, "Cucurucho" accepts | [CANON FACT, per author] |
+| EV-0038 | Sets and immediately softens an ultimatum for Cucurucho; articulates his all-or-nothing view of love; vows (unsuccessfully, per later events) never to wait like this again | [CANON FACT, per author] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
