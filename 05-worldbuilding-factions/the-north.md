@@ -28,8 +28,18 @@
 
 ### Culture / recurring traditions
 
-- Weekly events organized primarily by Juan: "Barbecue Mondays" and "Purple Wednesday" (the latter a homage to Vegetta). [CANON FACT]
-- Karaoke nights, North conferences (formal meetings, usually run for/by Aldo). [CANON FACT]
+The North runs a full weekly schedule of assigned activities, mostly set
+up and enforced by Juan: [CANON FACT]
+
+| Day | Activity | Notes |
+|---|---|---|
+| Monday | Lunes de Carnita Asada (BBQ Monday) | Most heavily enforced — barbecue plus party games. |
+| Tuesday | Martes de Entrenamiento (Training/PvP Tuesday) | |
+| Wednesday | Miércoles Morado (Purple Wednesday) | Most heavily enforced — everyone wears purple, homage to Vegetta's color; purple is also used broadly around the mansion alongside the yellow of the arenisca (sandstone) it's built from. |
+| Thursday | Jueves de Lechita (Milk Thursday) | Most heavily enforced — themed costume day (favorite superheroes, Power Rangers, movie characters, etc.). |
+| Friday | Viernes de Conferencia (Conference Friday) | Formal North conferences. |
+
+- Karaoke nights also occur. [CANON FACT]
 - Juan sings around the house while working, is giggly/smiley by default. [CANON FACT — author-observed pattern]
 - Foolish nicknames Juan's office-management habit "office simulator." [CANON FACT]
 

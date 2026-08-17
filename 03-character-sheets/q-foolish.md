@@ -85,6 +85,8 @@ resolve.
 | EV-0002 | Plans to live with Vegetta; warmly received | [CANON FACT] |
 | EV-0034 | Meets Juan again, this time on the island itself; shows him the dragon build | [CANON FACT] |
 | EV-0035 | Gives Juan his first kelpamine sample | [CANON FACT] |
+| EV-0039 | First real fight with Juan over a changed room sign; escalates into mutual yelling as a bit | [CANON FACT] |
+| EV-0040 | Objects to (then accepts) Juan's pet camel living in his room; jokingly claims to be Juan's "real" best friend | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

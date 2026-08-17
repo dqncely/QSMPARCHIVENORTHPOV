@@ -31,6 +31,8 @@ provisional vs. confirmed.
 | EV-0015 | North confronts Ash over Estupidog; battle breaks out | 2026-03-23 | [ev-0015-ash-battle-estupidog-confrontation.md](ev-0015-ash-battle-estupidog-confrontation.md) |
 | EV-0016 | Ash and Juan hold peace talks; "flor de la paz" given | 2026-03-23 (ordering vs. EV-0015 disputed) | [ev-0016-ash-peace-talks-flower.md](ev-0016-ash-peace-talks-flower.md) |
 | EV-0017 | Ash's train stolen; "Juan, Juan, I've got the train!" | Pending | [ev-0017-train-theft-foolish-got-the-train.md](ev-0017-train-theft-foolish-got-the-train.md) |
+| EV-0039 | Foolish and Juan's first fight — the room-sign rank war | Pending (after EV-0006) | [ev-0039-foolish-juan-first-fight-sign-war.md](ev-0039-foolish-juan-first-fight-sign-war.md) |
+| EV-0040 | Camila Camello | Pending (after EV-0039) | [ev-0040-camila-camello.md](ev-0040-camila-camello.md) |
 | EV-0018 | Alarm chaos in the Regime zone | Pending | [ev-0018-alarm-chaos-regime-zone.md](ev-0018-alarm-chaos-regime-zone.md) |
 | EV-0019 | Foolish builds a copycat office; Juan floods it | Pending | [ev-0019-office-rivalry-flooding.md](ev-0019-office-rivalry-flooding.md) |
 | EV-0020 | Snow golem prank, then bee-infestation prank war | Pending | [ev-0020-snow-golem-bee-prank-war.md](ev-0020-snow-golem-bee-prank-war.md) |

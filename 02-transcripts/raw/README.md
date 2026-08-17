@@ -10,3 +10,6 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-juan-segundo-almando-cucurucho-origin.md](2026-03-pending-juan-segundo-almando-cucurucho-origin.md) | Juan named Segundo Almando; Cucurucho fascination begins | Pending |
 | [2026-03-pending-robleis-as-cucurucho-first-date.md](2026-03-pending-robleis-as-cucurucho-first-date.md) | First Cucurucho "date" — Robleis in disguise (fragment; original corrupted) | Pending |
 | [2026-03-pending-juan-teddy-cucurucho-ultimatum.md](2026-03-pending-juan-teddy-cucurucho-ultimatum.md) | Juan's Cucurucho ultimatum/monologue with "Teddy" | Pending |
+| [2026-03-pending-foolish-juan-first-fight-sign-war.md](2026-03-pending-foolish-juan-first-fight-sign-war.md) | Foolish/Juan's first fight — room-sign rank war | Pending |
+| [2026-03-pending-camila-camello.md](2026-03-pending-camila-camello.md) | Camila Camello (Juan's pet camel) | Pending |
+| [2026-03-pending-train-theft-full-scene.md](2026-03-pending-train-theft-full-scene.md) | Full scene for EV-0017 (train theft confrontation) | Pending |

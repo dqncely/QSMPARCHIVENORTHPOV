@@ -17,6 +17,8 @@
 | EV-0001 (2026-03-14) | First meeting (cruise ship); warm, no tension | [CANON FACT] |
 | EV-0034 (~2026-03-15) | First meeting *on the island*; Juan deliberately pushes past his English discomfort to talk to Foolish; Foolish shows him the dragon build | [CANON FACT] |
 | EV-0035 (~2026-03-15) | Foolish gives Juan his first kelpamine sample, out of convenience more than intention — an early, low-stakes act of trust/generosity | [CANON FACT] |
+| EV-0039 (pending) | First real fight — the room-sign rank war; establishes their "escalating yelling as a bit" pattern (property damage, mock demotions), not yet malicious | [CANON FACT] |
+| EV-0040 (pending) | Camila Camello — Juan installs a pet camel in Foolish's room over his objections; Foolish jokingly claims to be Juan's "real" best friend | [CANON FACT] |
 | EV-0009 (2026-03-22) | First major breach of trust: Foolish deceives Juan about Estupidog's death; Juan resorts to psychological manipulation (staged haunting) to get the truth | [CANON FACT] |
 | EV-0011 (~2026-03-22) | Work as allies planning a Regime attack together | [CANON FACT] |
 | EV-0013 (2026-03-22) | Foolish physically defends Juan twice against Roier/Missa — first major act of protection | [CANON FACT] |
@@ -88,6 +90,8 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 
 - Foolish attempting Spanish and getting corrected (origin: EV-0001).
 - Mutual transparent lying about who started the prank war (EV-0020) — both know the other is lying, plays as comedy rather than real deception.
+- Escalating mock-demotion yelling matches, origin EV-0039 — a bit that later curdles into the genuinely serious EV-0024 demotion, worth using that contrast deliberately in prose.
+- "I'm your best friend" as a running, half-joking claim from Foolish (origin: EV-0040, in response to Juan calling his pet camel his best friend instead).
 - Per author (broader character notes, not yet a dated event): they intentionally match outfits/skins for bits together despite their public "rivalry."
 
 ## Physical / social habits around one another

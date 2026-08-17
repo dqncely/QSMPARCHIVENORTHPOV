@@ -29,6 +29,8 @@ Not yet established.
   ("Oh, nice.. Yo se muchas palabras en Inglés!"). [CANON FACT]
 - Notably more socially fluent/confident than Foolish in this exchange —
   corrects Foolish's Spanish, plays along with jokes easily. [CANON FACT]
+- Prone to dramatic bureaucratic register when performing officiousness ("tengo que degradarte a tercero al mando," "no pediste un autorización para cambio de letrero") before losing composure into genuine cursing/yelling. [CANON FACT, EV-0039]
+- Under real fear/pressure, English breaks down further and sentences fragment ("la WHAT To the WHAT??", "We don't- We don't stole anything!") — contrast with his more composed code-switching in calmer scenes. [CANON FACT, EV-0017]
 
 ## Languages
 
@@ -91,6 +93,8 @@ None established yet.
 | EV-0036 | Named "Segundo Almando"; Cucurucho's flower gift begins his fascination | [MY INTERPRETATION] |
 | EV-0037 | Waits all night for a Cucurucho date; Robleis impersonates Cucurucho; Juan proposes marriage, "Cucurucho" accepts | [CANON FACT, per author] |
 | EV-0038 | Sets and immediately softens an ultimatum for Cucurucho; articulates his all-or-nothing view of love; vows (unsuccessfully, per later events) never to wait like this again | [CANON FACT, per author] |
+| EV-0039 | First real fight with Foolish, over a changed room sign — escalates into mutual yelling and mock-demotions | [CANON FACT] |
+| EV-0040 | Installs a pet camel (Camila Camello) in Foolish's room over his objections | [CANON FACT] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
