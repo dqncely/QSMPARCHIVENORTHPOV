@@ -18,6 +18,8 @@
 - Directly reveals sincere romantic interest in Juan at the Polish train station. Says the feelings began roughly three weeks earlier after seeing how much Juan cares for the North. [CANON FACT, EV-0067]
 - Believes Juan wants a second date; does not know Juan repeatedly tried and failed to reject him or that Foolish watched/coached the interaction. [STRONG INFERENCE / CANON FACT for the hidden coaching]
 - Helpful, technically capable, multilingual, and protective of Juan's reputation; seriously tells Foolish not to call Juan a scumbag. [CANON FACT, EV-0068]
+- Persistent and literal during the second-date arc. Accepts Juan's delays, Katie's bow, Abueloier's chaperoning, and every attempted deterrent; responds to Juan's exclusivity demand by offering to abandon friends and stop working for Multi. [CANON FACT, EV-0069/EV-0070]
+- Conceals Juan's identity from Katie because Katie and Juan dislike one another. This secrecy unintentionally triggers Juan's fear of being hidden. [CANON FACT, EV-0070]
 
 ## Related entries
 
@@ -25,4 +27,4 @@
 
 ## Writing notes
 
-- Open craft question: whether Juan can give Graf a clear rejection on the second date without accepting affection he does not return.
+- Open craft question: whether Juan can give Graf a clear rejection on the now-scheduled third date, and whether Graf understands any of Juan's deterrents as rejection attempts.

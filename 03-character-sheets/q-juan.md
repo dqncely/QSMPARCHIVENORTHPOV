@@ -115,6 +115,8 @@ Not yet established.
 | EV-0066 | Wears clothes altered by Tina (short shorts, crop top); a butterfly tattoo is seen by Foolish for the first time | [CANON FACT] |
 | EV-0067 | Learns Graf likes him; states he sees Graf only as a friend, repeatedly fails to reject him, and accidentally schedules a second date | [CANON FACT] |
 | EV-0068 | Plans the second date with Foolish at Cucurucho Land; easy banter contrasts with his nervousness around Graf | [CANON FACT for actions; MY INTERPRETATION for the contrast's romantic meaning] |
+| EV-0069 | Delays Graf's second date all day waiting for Foolish; confesses to Abueloier that Graf is only a friend and that he fears loving again | [CANON FACT] |
+| EV-0070 | Becomes inebriated during the date; admits fear of secrecy and extreme exclusivity needs; still cannot reject Graf and schedules a third date | [CANON FACT for statements/actions; MY INTERPRETATION for how fully he means each deterrent] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
@@ -191,3 +193,5 @@ not knowing, is currently undetermined.
   a later development) actually builds from this starting point of Juan
   being the more linguistically confident one.
 - Intoxication reference (writing guidance, not a canon event): Juan becomes quieter unless singing or hyping someone up; when he talks he rambles, slurs, smiles and giggles more, loses his usual irritation, lets clothes/glasses/headband become disordered, repeats names to gain attention and may forget his point, eventually stops translating into English, and drinks heavily despite his smaller build. Use this as characterization guidance, not as proof of alcoholism without a specific canon source. [MY INTERPRETATION / WRITING NOTE]
+- EV-0070 confirms several intoxication markers directly: rapid drinking without eating, hiccups, slurred multilingual tangents, heightened tears, lowered filters, and difficulty maintaining an intended conversation. [CANON FACT]
+- People-pleasing/peacekeeping is now a confirmed recurring flaw: he would rather invent military service, death, disguises, and an intrusive chaperone than tell a kind friend “no.” With Foolish he argues openly because their established dynamic makes disagreement feel survivable; that contrast is useful but its psychological explanation remains [MY INTERPRETATION].

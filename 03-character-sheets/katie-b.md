@@ -18,6 +18,7 @@
 | Event ID | What happens for this character | Tag |
 |---|---|---|
 | EV-0041 | Runs a chaotic, unsuccessful-but-not-totally-wrong "relationship therapy" session for Foolish and Juan | [CANON FACT] |
+| EV-0069/EV-0070 | Believes Graf's date is a girl named “Juanita,” supplies a large white bow, gives Graf adult questions he misunderstands, and attempts to spy without knowing the date is Juan | [CANON FACT] |
 
 ## Canon facts (continued)
 

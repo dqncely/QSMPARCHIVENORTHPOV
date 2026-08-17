@@ -12,6 +12,8 @@ Graf is a North member whom Juan understands as a friend. Graf comes to admire J
 | EV-0056 | Graf welcomes Juan home and comforts him, but accidentally triggers him with a Cucurucho plush | [CANON FACT] |
 | EV-0067 | Graf reveals his feelings; Juan states privately that he sees Graf only as a friend, fails to reject him, and schedules a second date | [CANON FACT] |
 | EV-0068 | Juan and Foolish plan the second date; Graf later tells Foolish he believes the first went well | [CANON FACT] |
+| EV-0069 | Juan delays all day waiting for Foolish, then recruits Abueloier as chaperone/saboteur | [CANON FACT] |
+| EV-0070 | The second date collapses into secrecy conflict and failed deterrents; Graf asks for a third date and Juan accepts | [CANON FACT] |
 
 ## Each person's perception
 
@@ -24,6 +26,7 @@ Juan sees Graf as kind and as a friend. His repeated avoidance comes from not wa
 - Graf knows Juan was previously hurt in love, but not the full Cucurucho/Robleis history. [CANON FACT]
 - Juan knows Graf's feelings began through observing his devotion to the North. [CANON FACT]
 - Graf incorrectly believes Juan requested a second date because he may reciprocate. [STRONG INFERENCE]
+- Graf may interpret Juan's disclosures and deterrents as relationship conditions he can satisfy rather than attempts to reject him. [STRONG INFERENCE]
 - Graf does not know Foolish watched and coached the date. [CANON FACT]
 - Juan does not know Multi has reportedly chipped Graf; see [REV-0009](../11-continuity-tracking/rev-0009-multi-federation-ties.md). [MY INTERPRETATION — pending direct source]
 
@@ -41,5 +44,4 @@ Trust is friendly but asymmetrical. Graf is romantically open; Juan is protectiv
 
 ## Current state
 
-As of EV-0068, a second date is scheduled for the next day at Cucurucho Land. Graf is hopeful. Juan intends to reject him but has already failed repeatedly. Foolish is positioned as hidden backup and knows more about Juan's intentions than Graf does.
-
+As of EV-0070, a third date is scheduled for Sunday. Graf remains hopeful and willing to meet every stated condition. Juan still views him as a friend, is frightened of hurting him, and has twice turned intended rejection into another date. Foolish missed the second date for reasons not established by the source; Abueloier now knows the full situation.

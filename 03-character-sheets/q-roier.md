@@ -31,6 +31,7 @@ Not yet established.
   - "Juan, con todo respeto, estás bien pendejo."
   - "Foolish, güey, tú tampoco te hagas. Se te nota desde el espacio."
   - "Yo no vi nada. Pero si hubiera visto algo, estaría bien indecente."
+- Performer/voice comparison: Roier and Abueloier are played by the same person and therefore share comic timing and a Mexican-Spanish foundation. Keep their roles distinct: Roier is quick, modern, teasing, and socially perceptive; Abueloier is slower, rambling, old-fashioned, literal, and prone to committed senile bits. [WRITING NOTE — production fact supplied by author, not in-world identity]
 
 ## Languages
 
