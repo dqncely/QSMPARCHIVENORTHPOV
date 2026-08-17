@@ -94,6 +94,7 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 | EV-0024 | Damaged | Damaged | Demotion/public conflict | [MY INTERPRETATION] |
 | EV-0030 (end state) | High | High ("I trust you fully") | Full trust-cycle completed within one arc | [MY INTERPRETATION — pending confirmation] |
 | EV-0047 | High | High | Juan takes on real personal risk (joining the Federation plan) specifically for/with Foolish, past the point where trust could be called into question | [CANON FACT] |
+| EV-0067 | High | High | Juan chooses Foolish as his hidden protector and repeatedly retreats to him for emotional coaching during Graf's confession | [CANON FACT] |
 
 ## Sources of conflict
 
@@ -116,6 +117,7 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 
 - Per author: they laugh together frequently — sometimes just seeing each other triggers laughter. Described by the author as "basically like best friends who cosplay rivalry." [MY INTERPRETATION — general characterization, not tied to one dated event]
 - Foolish physically intervenes/fights on Juan's behalf when things get serious (EV-0013). [CANON FACT]
+- Juan turns to Foolish as his safety person during Graf's confession; Foolish stays invisible nearby, coaches him through multiple attempts, and agrees to impersonate him as emergency backup. [CANON FACT, EV-0067]
 
 ## Language changes
 
@@ -157,9 +159,9 @@ Author has confirmed (2026-08-17) that this relationship eventually develops int
 
 ## Current relationship state
 
-- **As of (Event ID):** EV-0066 (last tracked event)
+- **As of (Event ID):** EV-0068 (last tracked event)
 - **Relationship type:** Reunited and deepening, now with mutual (if unspoken) awareness underneath the friendship — both semi-aware of their own feelings, neither having said anything to the other. Foolish has shifted noticeably toward active caretaking (the camping trip; genuine protectiveness) and toward transparency about the one big thing he was hiding (the temple, told to Juan directly in EV-0064).
-- **Summary:** From a warm first meeting through a real betrayal-and-repair cycle, physical protection, petty prank wars, a full trust arc around the Federation, an unfinished goodbye, a separation, and a reunion that read as more open than anything before the kidnapping, this pair has now reached a point where Juan knows about Foolish's soul pact and rejects it outright, and a specific, charged, unresolved moment (EV-0066) has both of them aware something's shifted without either naming it. What remains genuinely unspoken: Juan's realization from EV-0045, and any direct acknowledgment of the tension from EV-0066.
+- **Summary:** The Graf-date arc makes their emotional asymmetry more visible without resolving it. Juan explicitly says he sees Graf only as a friend, then relies on Foolish as protector, coach, confidant, and proposed stand-in. Foolish outwardly helps Graf's chances while the supplied POV frames tension he does not disclose. Their Cucurucho Land outing is canonically easy, playful friendship; reading it as an undeclared date or jealousy peak remains interpretation.
 
 ## Correction on record
 

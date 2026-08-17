@@ -121,6 +121,8 @@ resolve.
 | EV-0063 | Encounters Dark Cucurucho with Juan; disappears overnight, worrying him | [CANON FACT] |
 | EV-0064 | Finally tells Juan everything about the temple and the soul risk; Juan flatly rejects the cost | [CANON FACT] |
 | EV-0066 | Sees Juan in altered clothes; notices a tattoo; visibly affected, doesn't act on it | [CANON FACT] |
+| EV-0067 | Serves as Juan's invisible safety person and rejection coach during Graf's confession; outwardly supportive while supplied POV notes growing tension | [CANON FACT for actions; MY INTERPRETATION for jealousy] |
+| EV-0068 | Plans Graf's second date with Juan, then spends time with Graf and recognizes his sincere qualities | [CANON FACT for actions; MY INTERPRETATION for competitive framing] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |
@@ -187,3 +189,4 @@ state them directly.
 - Comparison anchors: EV-0001 language-fumbling exchange with Juan.
 - Open craft questions: what "maybe take them down" means, and when (or
   whether) it surfaces in-story.
+- Intoxication reference (writing guidance, not a canon event): Foolish becomes clingier and more physically touch-oriented, leans in subconsciously, enters a stumbling caretaker mode, talks more and can become too honest, and treats intoxication partly as another limit-testing experience. He may appear coherent because he goes with the flow rather than because he is sober. [MY INTERPRETATION / WRITING NOTE]

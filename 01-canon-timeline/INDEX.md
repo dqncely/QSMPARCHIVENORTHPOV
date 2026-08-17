@@ -73,3 +73,5 @@ provisional vs. confirmed.
 | EV-0064 | Foolish shows Juan the temple | Pending | [ev-0064-foolish-shows-juan-temple.md](ev-0064-foolish-shows-juan-temple.md) |
 | EV-0065 | A week away, the drunk return, and Cucurucho Land | Pending | [ev-0065-hiatus-week-away-and-return.md](ev-0065-hiatus-week-away-and-return.md) |
 | EV-0066 | Tina's altered clothes; growing tension | Pending — most recent tracked event | [ev-0066-tina-altered-clothes-tension.md](ev-0066-tina-altered-clothes-tension.md) |
+| EV-0067 | Graf reveals his feelings; Juan accidentally schedules a second date | Pending | [ev-0067-graf-first-date.md](ev-0067-graf-first-date.md) |
+| EV-0068 | Juan and Foolish scout Cucurucho Land for Graf's second date | Pending — most recent tracked event | [ev-0068-cucurucho-land-date-planning.md](ev-0068-cucurucho-land-date-planning.md) |

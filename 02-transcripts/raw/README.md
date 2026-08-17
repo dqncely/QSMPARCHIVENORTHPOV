@@ -38,3 +38,6 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-foolish-shows-juan-temple.md](2026-03-pending-foolish-shows-juan-temple.md) | Foolish shows Juan the temple | Pending |
 | [2026-03-pending-hiatus-week-away-and-return.md](2026-03-pending-hiatus-week-away-and-return.md) | Island hiatus mechanics; a week away; the drunk return; Cucurucho Land | Pending |
 | [2026-03-pending-tina-altered-clothes-tension.md](2026-03-pending-tina-altered-clothes-tension.md) | Tina's altered clothes; the tattoo; growing tension | Pending |
+| [2026-03-pending-el-grifoolish-and-graf-reveal.md](2026-03-pending-el-grifoolish-and-graf-reveal.md) | El Grifoolish, admirer letter, and Graf's reveal | Pending |
+| [2026-03-pending-graf-date-part-1-continuation.md](2026-03-pending-graf-date-part-1-continuation.md) | Juan's failed rejection attempts and accidental second date | Pending |
+| [2026-03-pending-cucurucho-land-date-planning.md](2026-03-pending-cucurucho-land-date-planning.md) | Juan/Foolish scout the park; Graf later speaks with Foolish | Pending |

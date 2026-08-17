@@ -113,6 +113,8 @@ Not yet established.
 | EV-0062 | Spends a full night facing his fear of the outdoors at Foolish's campsite, scared but supported | [CANON FACT] |
 | EV-0064 | Learns about the Dark Cucurucho soul pact; rejects the cost outright, wants an alternative plan | [CANON FACT] |
 | EV-0066 | Wears clothes altered by Tina (short shorts, crop top); a butterfly tattoo is seen by Foolish for the first time | [CANON FACT] |
+| EV-0067 | Learns Graf likes him; states he sees Graf only as a friend, repeatedly fails to reject him, and accidentally schedules a second date | [CANON FACT] |
+| EV-0068 | Plans the second date with Foolish at Cucurucho Land; easy banter contrasts with his nervousness around Graf | [CANON FACT for actions; MY INTERPRETATION for the contrast's romantic meaning] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
@@ -136,6 +138,7 @@ Not yet established.
 
 - [Q!Foolish & Q!Juan](../04-relationship-sheets/q-foolish-and-q-juan.md)
 - [Q!Juan & Q!Roier](../04-relationship-sheets/q-juan-and-q-roier.md)
+- [Q!Juan & Graf](../04-relationship-sheets/q-juan-and-graf.md)
 
 ## Secrets
 
@@ -187,3 +190,4 @@ not knowing, is currently undetermined.
   all; how the "Spanglish" merge with Foolish (mentioned by the author as
   a later development) actually builds from this starting point of Juan
   being the more linguistically confident one.
+- Intoxication reference (writing guidance, not a canon event): Juan becomes quieter unless singing or hyping someone up; when he talks he rambles, slurs, smiles and giggles more, loses his usual irritation, lets clothes/glasses/headband become disordered, repeats names to gain attention and may forget his point, eventually stops translating into English, and drinks heavily despite his smaller build. Use this as characterization guidance, not as proof of alcoholism without a specific canon source. [MY INTERPRETATION / WRITING NOTE]
