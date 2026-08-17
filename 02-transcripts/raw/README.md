@@ -13,3 +13,11 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-foolish-juan-first-fight-sign-war.md](2026-03-pending-foolish-juan-first-fight-sign-war.md) | Foolish/Juan's first fight — room-sign rank war | Pending |
 | [2026-03-pending-camila-camello.md](2026-03-pending-camila-camello.md) | Camila Camello (Juan's pet camel) | Pending |
 | [2026-03-pending-train-theft-full-scene.md](2026-03-pending-train-theft-full-scene.md) | Full scene for EV-0017 (train theft confrontation) | Pending |
+| [2026-03-pending-office-wars-origin.md](2026-03-pending-office-wars-origin.md) | Full scene for EV-0019 (Foolish's promotion, replica office) | Pending |
+| [2026-03-pending-katie-b-therapy.md](2026-03-pending-katie-b-therapy.md) | Katie B. forced relationship therapy session | Pending |
+| [2026-03-pending-madera-de-roble.md](2026-03-pending-madera-de-roble.md) | Oak wood delivery — a Spanish lesson | Pending |
+| [2026-03-pending-rehab-retreat-campfire.md](2026-03-pending-rehab-retreat-campfire.md) | Full scene for EV-0027/EV-0028 (beach campfire retreat) | Pending |
+| [2026-03-pending-heart-saga-part-1.md](2026-03-pending-heart-saga-part-1.md) | Heart saga part 1 — Doctor Atomico | Pending |
+| [2026-03-pending-maximus-oh-moment.md](2026-03-pending-maximus-oh-moment.md) | Maximus and Juan — "the oh moment" | Pending |
+| [2026-03-pending-foolish-confronts-juan-and-rooftop.md](2026-03-pending-foolish-confronts-juan-and-rooftop.md) | Foolish confronts Juan over the Maximus leak; rooftop conversation | Pending |
+| [2026-03-pending-monster-hunting-full-scene.md](2026-03-pending-monster-hunting-full-scene.md) | Full scene for EV-0032 (monster hunting, last days before disappearance) | Pending |

@@ -4,7 +4,7 @@
 
 - **Event ID:** EV-0031
 - **Date:** Unknown — pending QNN date-pass.
-- **Chronological position:** Per author's original ordering, after [EV-0030](ev-0030-federation-recruitment-arc.md).
+- **Chronological position:** Per author's original ordering, after [EV-0030](ev-0030-federation-recruitment-arc.md). Author confirms this is the **same day** as [EV-0032](ev-0032-monster-baiting.md) (monster hunting) and shortly before [EV-0033](ev-0033-juan-disappearance.md) — one of Juan's last days before disappearing.
 - **Certainty level (overall):** Mixed — author memory, pending QNN confirmation.
 
 ## Participants

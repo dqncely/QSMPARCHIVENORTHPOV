@@ -4,7 +4,7 @@
 
 - **Event ID:** EV-0033
 - **Date:** Unknown — pending QNN date-pass. This is likely the single most important date to pin down, given its weight on the story.
-- **Chronological position:** Per author's original ordering, the most recent event in the currently-tracked arc — after [EV-0032](ev-0032-monster-baiting.md).
+- **Chronological position:** Per author's original ordering, the most recent event in the currently-tracked arc — after [EV-0032](ev-0032-monster-baiting.md), which is now confirmed as the same day as [EV-0031](ev-0031-cucurucho-robleis-reveal.md). So: EV-0031 and EV-0032 happen the same day, EV-0033 shortly after (within Juan's "last days").
 - **Certainty level (overall):** Mixed — the QNN-style report language is preserved closely by the author; the private "last conversation with Foolish" detail is separate, author-added context.
 
 ## Participants

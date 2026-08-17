@@ -20,8 +20,14 @@ provisional vs. confirmed.
 | EV-0038 | Juan's Cucurucho ultimatum and monologue (with Teddy) | Pending | [ev-0038-juan-teddy-cucurucho-ultimatum.md](ev-0038-juan-teddy-cucurucho-ultimatum.md) |
 | EV-0005 | Vegetta assigns mansion rooms | 2026-03-18 | [ev-0005-room-assignments.md](ev-0005-room-assignments.md) |
 | EV-0006 | Juan's jealousy over "segundo al mando plus," death threats | 2026-03-18 | [ev-0006-juan-jealousy-death-threats.md](ev-0006-juan-jealousy-death-threats.md) |
+| EV-0039 | Foolish and Juan's first fight — the room-sign rank war | Pending (after EV-0006) | [ev-0039-foolish-juan-first-fight-sign-war.md](ev-0039-foolish-juan-first-fight-sign-war.md) |
+| EV-0040 | Camila Camello | Pending (after EV-0039) | [ev-0040-camila-camello.md](ev-0040-camila-camello.md) |
+| EV-0019 | Foolish's "second in command plus" promotion; builds a replica of Juan's office | Pending (near EV-0006) | [ev-0019-office-rivalry-flooding.md](ev-0019-office-rivalry-flooding.md) |
 | EV-0007 | Juan awaits a date with Cucurucho | 2026-03-19 | [ev-0007-juan-awaits-cucurucho.md](ev-0007-juan-awaits-cucurucho.md) |
 | EV-0008 | Cucurucho appears "off," Robleis vanishes simultaneously | 2026-03-19 | [ev-0008-cucurucho-appears-off-robleis-vanishes.md](ev-0008-cucurucho-appears-off-robleis-vanishes.md) |
+| EV-0041 | Katie B. forced relationship therapy | Pending (after EV-0019/EV-0020) | [ev-0041-katie-b-therapy.md](ev-0041-katie-b-therapy.md) |
+| EV-0042 | The oak wood delivery — a Spanish lesson | Pending | [ev-0042-madera-de-roble.md](ev-0042-madera-de-roble.md) |
+| EV-0043 | The heart saga — Doctor Atomico | Pending | [ev-0043-heart-saga.md](ev-0043-heart-saga.md) |
 | EV-0009 | Foolish confesses to Juan about Estupidog's death | 2026-03-22 | [ev-0009-foolish-estupidog-confession.md](ev-0009-foolish-estupidog-confession.md) |
 | EV-0010 | Juan questions Tubbo about Estupidog's death | 2026-03-22 | [ev-0010-juan-tubbo-office-meeting.md](ev-0010-juan-tubbo-office-meeting.md) |
 | EV-0011 | Juan and Foolish plan a possible attack on the Regime | Pending (~Mar 22) | [ev-0011-juan-foolish-plan-regime-attack.md](ev-0011-juan-foolish-plan-regime-attack.md) |
@@ -31,10 +37,7 @@ provisional vs. confirmed.
 | EV-0015 | North confronts Ash over Estupidog; battle breaks out | 2026-03-23 | [ev-0015-ash-battle-estupidog-confrontation.md](ev-0015-ash-battle-estupidog-confrontation.md) |
 | EV-0016 | Ash and Juan hold peace talks; "flor de la paz" given | 2026-03-23 (ordering vs. EV-0015 disputed) | [ev-0016-ash-peace-talks-flower.md](ev-0016-ash-peace-talks-flower.md) |
 | EV-0017 | Ash's train stolen; "Juan, Juan, I've got the train!" | Pending | [ev-0017-train-theft-foolish-got-the-train.md](ev-0017-train-theft-foolish-got-the-train.md) |
-| EV-0039 | Foolish and Juan's first fight — the room-sign rank war | Pending (after EV-0006) | [ev-0039-foolish-juan-first-fight-sign-war.md](ev-0039-foolish-juan-first-fight-sign-war.md) |
-| EV-0040 | Camila Camello | Pending (after EV-0039) | [ev-0040-camila-camello.md](ev-0040-camila-camello.md) |
 | EV-0018 | Alarm chaos in the Regime zone | Pending | [ev-0018-alarm-chaos-regime-zone.md](ev-0018-alarm-chaos-regime-zone.md) |
-| EV-0019 | Foolish builds a copycat office; Juan floods it | Pending | [ev-0019-office-rivalry-flooding.md](ev-0019-office-rivalry-flooding.md) |
 | EV-0020 | Snow golem prank, then bee-infestation prank war | Pending | [ev-0020-snow-golem-bee-prank-war.md](ev-0020-snow-golem-bee-prank-war.md) |
 | EV-0021 | Vegetta angry at Juan over construction criticism | Pending | [ev-0021-vegetta-upset-construction-criticism.md](ev-0021-vegetta-upset-construction-criticism.md) |
 | EV-0022 | Cucurucho attacks Juan with a potion and black entities | Pending | [ev-0022-cucurucho-potion-attack-juan.md](ev-0022-cucurucho-potion-attack-juan.md) |
@@ -42,10 +45,13 @@ provisional vs. confirmed.
 | EV-0024 | Juan demotes Foolish; public shouting match | Pending | [ev-0024-juan-demotes-foolish.md](ev-0024-juan-demotes-foolish.md) |
 | EV-0025 | Foolish's DNA-extraction story disbelieved; "rehabilitation" suggested | Pending | [ev-0025-foolish-dna-extraction-confession.md](ev-0025-foolish-dna-extraction-confession.md) |
 | EV-0026 | Aldo accuses Molly of betrayal; Juan sides with Molly | Pending | [ev-0026-aldo-accuses-molly-betrayal.md](ev-0026-aldo-accuses-molly-betrayal.md) |
-| EV-0027 | The North holds a rehabilitation/group therapy meeting | Pending | [ev-0027-north-rehabilitation-meeting.md](ev-0027-north-rehabilitation-meeting.md) |
-| EV-0028 | Juan's private confession to Foolish after group therapy | Pending (may need transcript, not QNN) | [ev-0028-juan-foolish-private-confession.md](ev-0028-juan-foolish-private-confession.md) |
-| EV-0029 | Abueloier's illness; the heart-salad incident | Pending | [ev-0029-abueloier-heart-salad.md](ev-0029-abueloier-heart-salad.md) |
+| EV-0027 | The North holds a rehabilitation retreat (beach campfire) | Pending | [ev-0027-north-rehabilitation-meeting.md](ev-0027-north-rehabilitation-meeting.md) |
+| EV-0028 | Juan's private confession to Foolish after the retreat | Pending | [ev-0028-juan-foolish-private-confession.md](ev-0028-juan-foolish-private-confession.md) |
+| ~~EV-0029~~ | ~~Abueloier's illness; heart-salad incident~~ — superseded, see EV-0043 | — | [ev-0029-abueloier-heart-salad.md](ev-0029-abueloier-heart-salad.md) |
 | EV-0030 | The Federation approaches Foolish; trust arc with Juan | Pending | [ev-0030-federation-recruitment-arc.md](ev-0030-federation-recruitment-arc.md) |
-| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | Pending | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
-| EV-0032 | Foolish baits the mystery monster; Juan joins | Pending | [ev-0032-monster-baiting.md](ev-0032-monster-baiting.md) |
+| EV-0045 | Maximus and Juan — "the oh moment" | Pending | [ev-0045-maximus-oh-moment.md](ev-0045-maximus-oh-moment.md) |
+| EV-0046 | Foolish confronts Juan over the Maximus leak | Pending | [ev-0046-foolish-confronts-juan-maximus-leak.md](ev-0046-foolish-confronts-juan-maximus-leak.md) |
+| EV-0047 | The rooftop conversation ("cacahuatazo") | Pending | [ev-0047-rooftop-cacahuatazo.md](ev-0047-rooftop-cacahuatazo.md) |
+| EV-0031 | Juan discovers "Cucurucho" was Robleis in disguise | Pending (same day as EV-0032) | [ev-0031-cucurucho-robleis-reveal.md](ev-0031-cucurucho-robleis-reveal.md) |
+| EV-0032 | Foolish baits the mystery monster; Juan joins | Pending (same day as EV-0031) | [ev-0032-monster-baiting.md](ev-0032-monster-baiting.md) |
 | EV-0033 | Juan receives a Federation summons and disappears | Pending | [ev-0033-juan-disappearance.md](ev-0033-juan-disappearance.md) |

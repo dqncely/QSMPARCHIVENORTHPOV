@@ -55,6 +55,8 @@ Not yet established.
 
 - [MY INTERPRETATION, per author's analysis of EV-0038] A long-standing (per Juan, "his whole life") fear that he always loves more than he's loved back. This is offered by the author as the root of his possessiveness/jealousy — not pure ego, but fear of always being the one giving more. If someone he loves has other loyalties or "special friends," his instinct reads that as proof he isn't enough.
 - This is also offered (by the author) as the reason a later situation with **Graf** — a North member with sincere, unreciprocated romantic interest in Juan — becomes a genuine crisis of conscience: Juan knows too well what loving intensely feels like, and doesn't want to be the person who receives that without returning it. See stub: [Graf](graf.md).
+- [CANON FACT, per author] Willing to defend someone at length while listing every one of their flaws in the same breath ("not the smartest... completely irritating, stupid, crude... but not a traitor") — his loyalty and his insults toward Foolish specifically are not actually in tension with each other, they're the same instinct.
+- [CANON FACT, per EV-0045] Denies aloud, immediately and completely, any suggestion that his feelings for Foolish are romantic — but privately can't fully dismiss it once said out loud by someone else. First point in the tracked timeline where this is voiced by anyone.
 
 ## Habits
 
@@ -95,6 +97,12 @@ None established yet.
 | EV-0038 | Sets and immediately softens an ultimatum for Cucurucho; articulates his all-or-nothing view of love; vows (unsuccessfully, per later events) never to wait like this again | [CANON FACT, per author] |
 | EV-0039 | First real fight with Foolish, over a changed room sign — escalates into mutual yelling and mock-demotions | [CANON FACT] |
 | EV-0040 | Installs a pet camel (Camila Camello) in Foolish's room over his objections | [CANON FACT] |
+| EV-0019 | Discovers Foolish built a replica of his office, wearing his shirt; furious but delighted underneath it | [CANON FACT] |
+| EV-0041 | Forced into relationship therapy with Foolish; airs a long list of real grievances | [CANON FACT] |
+| EV-0043 | As "Doctor Atomico," takes half of Foolish's heart for a "transplant," makes it into a salad instead; ends up giving half his own heart back in a knife-fight aftermath | [CANON FACT] |
+| EV-0027/EV-0028 | Freezes into a flat "orange" comparison for Foolish in the group setting, then confesses genuine appreciation for him privately afterward | [CANON FACT] |
+| EV-0045 | Defends Foolish to Maximus at length; Maximus names his feelings for Foolish directly; Juan denies it aloud, then privately can't fully dismiss it | [CANON FACT] |
+| EV-0046/EV-0047 | Apologizes for the Maximus leak, admits fear about the Federation plan, agrees to join it himself | [CANON FACT] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
@@ -126,6 +134,7 @@ None established yet.
 | Recent release from prison | Foolish, Roier (not raised in EV-0001) | Juan | Not yet | [MY INTERPRETATION] |
 | Plan (with Quackity) to kill Roier | Roier, until EV-0013 | Juan, Quackity | EV-0013 | [CANON FACT] |
 | Believed relationship with "Cucurucho" was fake | Juan himself, until EV-0031 | Robleis | EV-0031 | [MY INTERPRETATION — pending confirmation] |
+| Realizes (privately) that he likely has feelings for Foolish, after Maximus names it | Everyone, including Foolish | Juan only | Not yet | [CANON FACT, per author — EV-0045] |
 
 ## What this character knows at different points in the timeline
 

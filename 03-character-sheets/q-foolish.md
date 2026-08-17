@@ -42,11 +42,26 @@ None established yet — too early in tracked history.
 - [MY INTERPRETATION] Wants to "enjoy the island" this time, per his
   private resolve — implies previous experience(s) were not enjoyable.
   See [REV-0004](../11-continuity-tracking/rev-0004-foolish-private-resolve.md).
+- [MY INTERPRETATION, informed by REV-0008] Draws his own direct comparison
+  between his QSMP1 Federation history and Juan's habits ("office
+  simulator") when explaining the current double-agent plan — suggests
+  self-awareness about repeating a pattern, not blindness to it.
 
 ## Fears / insecurities
 
 Not yet established directly — his resolve to avoid attachment may hint
 at fear of loss, but that's speculative. [MY INTERPRETATION]
+
+## Dark history
+
+- On QSMP1, went undercover for the Federation, ended up with "blood on
+  his hands," and was named the Federation's "employee of the month."
+  Specifics not detailed. This is the root of Maximus's (and other QSMP1
+  veterans') distrust of him in the present. [CANON FACT, per author —
+  see [REV-0008](../11-continuity-tracking/rev-0008-foolish-qsmp1-federation-history.md)]
+  Worth reading against his private resolve not to get attached
+  ([REV-0004](../11-continuity-tracking/rev-0004-foolish-private-resolve.md))
+  — this history may be exactly what he meant.
 
 ## Habits
 
@@ -87,6 +102,13 @@ resolve.
 | EV-0035 | Gives Juan his first kelpamine sample | [CANON FACT] |
 | EV-0039 | First real fight with Juan over a changed room sign; escalates into mutual yelling as a bit | [CANON FACT] |
 | EV-0040 | Objects to (then accepts) Juan's pet camel living in his room; jokingly claims to be Juan's "real" best friend | [CANON FACT] |
+| EV-0019 | Gets promoted to "second in command plus"; builds a replica of Juan's office, wearing Juan's shirt | [CANON FACT] |
+| EV-0041 | Forced into relationship therapy with Juan; can't manage a genuine compliment under pressure | [CANON FACT] |
+| EV-0043 | Donates half his heart to "Doctor Atomico" Juan for a transplant; it ends up in a salad; extracts half of Juan's heart in revenge, then helps regrow it | [CANON FACT] |
+| EV-0027/EV-0028 | Genuinely vulnerable with Graf/Aldo/Molly at the retreat, guarded-but-warm with Juan in the group, then receives Juan's sincere private thanks afterward | [CANON FACT] |
+| EV-0030 | Tells Juan first about the Federation approach | [CANON FACT] |
+| EV-0046/EV-0047 | Confronts Juan over the Maximus leak, then opens up about being scared/reassures Juan on the rooftop, expanding the plan to include him | [CANON FACT] |
+| EV-0032 | Monster hunting with Juan — one of their last easy, bantering conversations before his disappearance | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

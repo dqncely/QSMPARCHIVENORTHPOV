@@ -22,14 +22,22 @@
 | EV-0009 (2026-03-22) | First major breach of trust: Foolish deceives Juan about Estupidog's death; Juan resorts to psychological manipulation (staged haunting) to get the truth | [CANON FACT] |
 | EV-0011 (~2026-03-22) | Work as allies planning a Regime attack together | [CANON FACT] |
 | EV-0013 (2026-03-22) | Foolish physically defends Juan twice against Roier/Missa — first major act of protection | [CANON FACT] |
-| EV-0019–0020 (pending date) | Escalating but petty prank war (copycat office, flooding, snow golems, bees) | [CANON FACT] |
+| EV-0039 (pending) | First real fight — the room-sign rank war; establishes escalating-yelling-as-a-bit | [CANON FACT] |
+| EV-0040 (pending) | Camila Camello; Foolish's unprompted "I'm your best friend" line | [CANON FACT] |
+| EV-0019 (pending) | Foolish builds a replica of Juan's office, wearing his shirt — reads as rivalry but is charged with unspoken intimacy (the shirt, a shared photo Juan doesn't have his own copy of) | [CANON FACT] |
+| EV-0041 (pending) | Forced relationship therapy; both flatly, quickly deny being "boyfriends" when a third party suggests it | [CANON FACT] |
+| EV-0042 (pending) | Low-stakes Spanish lesson (madera de roble) — evidence their conflicts aren't always malicious | [CANON FACT] |
+| EV-0043 (pending) | The heart saga — both literally give each other half their heart, played entirely as comedy, neither fully weaponizes it even mid-argument | [CANON FACT] |
 | EV-0023 (pending date) | Foolish (apparently) kills Juan with the train; circumstances (accident vs. intentional) unclear | [CANON FACT] |
 | EV-0024 (pending date) | Juan formally demotes Foolish; public shouting match — power dynamic shifts from peer conflict to institutional authority | [CANON FACT] |
 | EV-0025 (pending date) | Juan disbelieves Foolish's DNA-extraction account, concludes he needs "rehabilitation" | [CANON FACT] |
-| EV-0027 (pending date) | In group therapy, Juan can only manage a deflecting joke about Foolish ("you're an orange... that's all") | [CANON FACT] |
-| EV-0028 (pending date) | Immediately after, alone, Juan tells Foolish sincerely that he enjoys their friendship — sharp contrast to the group-setting deflection | [MY INTERPRETATION — pending transcript] |
+| EV-0027 (pending date) | At the group retreat, Juan can only manage a deflecting joke about Foolish ("you're an orange... that's all") — while being fluently sincere with everyone else in the same session | [CANON FACT — full transcript now available] |
+| EV-0028 (pending date) | Immediately after, alone, Juan tells Foolish sincerely that he enjoys their friendship; both retreat into banter within moments of the sincerity landing | [CANON FACT — full transcript now available] |
 | EV-0030 (pending date) | Federation-recruitment trust arc: distrust → Juan defends Foolish to Aldo → betrayal (Maximus leak) → rare sincere apology from Juan → explicit "I trust you fully" → they team up on Federation info-gathering | [MY INTERPRETATION — pending confirmation] |
-| EV-0032 (pending date) | Juan immediately agrees to join Foolish's reckless monster-baiting plan | [MY INTERPRETATION — pending confirmation] |
+| EV-0045 (pending) | Maximus tells Juan directly that he has feelings for Foolish; Juan denies it aloud, privately can't fully dismiss it — the story's first named acknowledgment of the subtext, and it's one-sided/internal only | [CANON FACT — full transcript now available] |
+| EV-0046 (pending) | Foolish confronts Juan over the Maximus leak; a brief unguarded moment (Juan's fake-angry look softening) that neither names, covered immediately by a joke | [CANON FACT] |
+| EV-0047 (pending) | Rooftop conversation — Juan admits fear plainly, Foolish reassures him and brings him fully into the Federation plan; among their most direct, un-joked exchanges on record | [CANON FACT] |
+| EV-0032 (same day as EV-0031) | Casual, bantering monster hunt — jealousy-coded jabs about Tubbo/Robleis/Cucurucho — now confirmed as one of their last easy conversations before Juan's disappearance | [CANON FACT — full transcript now available] |
 | EV-0033 (pending date) | Juan disappears; Foolish is the last person he spoke to beforehand | [MY INTERPRETATION — pending confirmation] |
 
 ## Each person's perception of the other
@@ -66,6 +74,7 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 | Misunderstanding | A (Foolish) believes | B (Juan) believes | Since (Event ID) | Resolved? (Event ID or "Not yet") | Tag |
 |---|---|---|---|---|---|
 | Nature of Foolish's Estupidog involvement | — | Initially unclear how deep Foolish's involvement went | EV-0009 | Resolved within EV-0009 (full confession) | [CANON FACT] |
+| Whether either has romantic feelings for the other | Untested — Foolish's own awareness not yet shown | Juan denies it flatly and publicly (EV-0041), then privately admits to himself it's likely true (EV-0045) | EV-0041 (denial) / EV-0045 (private admission) | Not yet resolved between them — still entirely one-sided/internal as of the latest tracked event | [CANON FACT] |
 
 ## Trust level
 
@@ -78,6 +87,7 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 | EV-0013 | High (enough to call for help) | High (Foolish chooses his side against Roier/Missa) | Major repair via action, not words | [MY INTERPRETATION] |
 | EV-0024 | Damaged | Damaged | Demotion/public conflict | [MY INTERPRETATION] |
 | EV-0030 (end state) | High | High ("I trust you fully") | Full trust-cycle completed within one arc | [MY INTERPRETATION — pending confirmation] |
+| EV-0047 | High | High | Juan takes on real personal risk (joining the Federation plan) specifically for/with Foolish, past the point where trust could be called into question | [CANON FACT] |
 
 ## Sources of conflict
 
@@ -92,6 +102,8 @@ Juan does not yet know Foolish's private resolve not to get attached ([REV-0004]
 - Mutual transparent lying about who started the prank war (EV-0020) — both know the other is lying, plays as comedy rather than real deception.
 - Escalating mock-demotion yelling matches, origin EV-0039 — a bit that later curdles into the genuinely serious EV-0024 demotion, worth using that contrast deliberately in prose.
 - "I'm your best friend" as a running, half-joking claim from Foolish (origin: EV-0040, in response to Juan calling his pet camel his best friend instead).
+- The exchanged half-hearts (EV-0043) — a genuinely bizarre, high-commitment bit that keeps resurfacing as a physical prop in later arguments (EV-0046).
+- "Cacahuatazo" — their private codeword for discussing the Federation plan (EV-0047 onward).
 - Per author (broader character notes, not yet a dated event): they intentionally match outfits/skins for bits together despite their public "rivalry."
 
 ## Physical / social habits around one another
@@ -119,10 +131,21 @@ Author has confirmed (2026-08-17) that this relationship eventually develops int
 > **Juan**, to the group, deflecting: "Foolish, you are like an orange.. you're orange and you give vitamin c.. thats all."
 > — [CANON FACT, per author], EV-0027
 
+> **Juan, privately, moments later:** "I- I.. like live with you, And work with you- and.. I enjoy the time with you, and you are a- i appreciate.. You."
+> — [CANON FACT], EV-0028
+
+> **Maximus:** "Yo creo, yo creo que a ti te gusta Foolish. Y de ahi, ese odio irracional que tienes hacia el."
+> **Juan:** "Es la mamada mas grande que has dicho."
+> — [CANON FACT], EV-0045 — the first time anyone names the subtext directly.
+
+> **Juan, admitting fear plainly:** "I dont know, Foolish. All this situation is so fucked up.. Maximus is so angry.. uh- Aldo is so confused. I dont know i- -I'm scared"
+> — [CANON FACT], EV-0047
+
 ## Unresolved tension
 
 - Whether/how the accidental-or-not train death (EV-0023) gets addressed between them.
 - The full content of their final conversation before Juan's disappearance (EV-0033) — currently a deliberate gap in the record.
+- Juan's private realization (EV-0045) that he likely has feelings for Foolish is, as of the last tracked event, entirely unknown to Foolish and unacted upon by Juan. This is a real, live gap — not resolved by the monster-hunting banter in EV-0032, which happens the same day as the Cucurucho heartbreak and doesn't touch on it.
 - Per author: an explicit "who fell first" romantic-subtext question exists in the author's own conception of this pairing — Juan reportedly considers a relationship with Foolish "off-limits" due to their rivalry-as-identity, while also showing signs otherwise; Foolish considers things earlier but doubts Juan's interest and may still be holding onto some hope regarding Vegetta. **This romantic read is explicitly the author's own framing for the planned fic, not something confirmed on-screen as of the latest tracked event — recorded here as author intent, not canon.** [MY INTERPRETATION / FIC-adjacent — treat as a writing-notes-tier claim, not a "Canon facts" one]
 
 ## Current relationship state
@@ -135,7 +158,7 @@ Author has confirmed (2026-08-17) that this relationship eventually develops int
 
 - [EV-0001](../01-canon-timeline/ev-0001-cruise-ship-first-meeting.md) through [EV-0033](../01-canon-timeline/ev-0033-juan-disappearance.md) (most involve this pair directly or indirectly)
 - [Q!Foolish](../03-character-sheets/q-foolish.md), [Q!Juan](../03-character-sheets/q-juan.md)
-- [REV-0001](../11-continuity-tracking/rev-0001-foolish-purgatory-history.md), [REV-0004](../11-continuity-tracking/rev-0004-foolish-private-resolve.md), [REV-0006](../11-continuity-tracking/rev-0006-estupidog-death-responsibility.md), [REV-0007](../11-continuity-tracking/rev-0007-juan-disappearance-circumstances.md)
+- [REV-0001](../11-continuity-tracking/rev-0001-foolish-purgatory-history.md), [REV-0004](../11-continuity-tracking/rev-0004-foolish-private-resolve.md), [REV-0006](../11-continuity-tracking/rev-0006-estupidog-death-responsibility.md), [REV-0007](../11-continuity-tracking/rev-0007-juan-disappearance-circumstances.md), [REV-0008](../11-continuity-tracking/rev-0008-foolish-qsmp1-federation-history.md)
 
 ## Writing notes
 
