@@ -104,7 +104,7 @@ stated as current fact.
 
 > **F:** "Yo estoy… Eh, se muchas palabras en Español."
 > **J:** "Oh, nice.. Yo se muchas palabras en Inglés!"
-> — [CANON FACT], source: [undated-cruise-ship-foolish-roier-juan-first-meeting.md](../02-transcripts/raw/undated-cruise-ship-foolish-roier-juan-first-meeting.md), Event ID: EV-0001
+> — [CANON FACT], source: [2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md](../02-transcripts/raw/2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md), Event ID: EV-0001
 
 ## Unresolved tension
 

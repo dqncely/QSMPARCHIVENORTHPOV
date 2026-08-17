@@ -5,4 +5,4 @@ One file per source (stream, VOD, clip, official post). Copy
 
 | File | Covers | Date |
 |---|---|---|
-| [undated-cruise-ship-foolish-roier-juan-first-meeting.md](undated-cruise-ship-foolish-roier-juan-first-meeting.md) | Foolish/Roier reunion, Foolish/Juan first meeting (cruise ship, pre-island) | Unknown — not provided |
+| [2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md](2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md) | Foolish/Roier reunion, Foolish/Juan first meeting (cruise ship, pre-island) | 2026-03-14 |

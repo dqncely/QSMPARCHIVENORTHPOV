@@ -110,7 +110,7 @@ None established yet.
 
 ## Canon evidence
 
-- [EV-0001](../01-canon-timeline/ev-0001-cruise-ship-first-meeting.md) / [transcript](../02-transcripts/raw/undated-cruise-ship-foolish-roier-juan-first-meeting.md)
+- [EV-0001](../01-canon-timeline/ev-0001-cruise-ship-first-meeting.md) / [transcript](../02-transcripts/raw/2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md)
 
 ## My interpretation
 

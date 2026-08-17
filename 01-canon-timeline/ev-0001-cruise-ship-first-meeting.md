@@ -4,7 +4,7 @@
 
 - **Event ID:** EV-0001
 - **Title:** Cruise ship: Foolish reunites with Roier, meets Juan
-- **Date:** Unknown — not provided by source
+- **Date:** 2026-03-14 — [CANON FACT — provided by author, 2026-08-17]. Also the general start date of the QSMP2 season.
 - **Chronological position:** Earliest event currently tracked. Precedes
   the group's arrival on the QSMP2 island; takes place aboard the cruise
   ship that brings the cast together. [CANON FACT — stated directly in
@@ -101,7 +101,7 @@ contrast to whatever "rivalry" develops later.
 
 ## Transcript source
 
-- [`02-transcripts/raw/undated-cruise-ship-foolish-roier-juan-first-meeting.md`](../02-transcripts/raw/undated-cruise-ship-foolish-roier-juan-first-meeting.md) — full scene, verbatim dialogue.
+- [`02-transcripts/raw/2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md`](../02-transcripts/raw/2026-03-14-cruise-ship-foolish-roier-juan-first-meeting.md) — full scene, verbatim dialogue.
 
 ## Consequences
 

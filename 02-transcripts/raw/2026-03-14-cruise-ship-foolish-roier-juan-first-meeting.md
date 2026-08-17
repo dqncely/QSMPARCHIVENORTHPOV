@@ -1,7 +1,7 @@
 # Cruise ship: Foolish, Roier, and Juan first scene together
 
 - **Channel/streamer:** Not provided
-- **Date:** Unknown — not provided. **Flag: needs a real date/VOD link if one exists**, so this can be placed precisely on the timeline instead of just "earliest known point."
+- **Date:** 2026-03-14 (per author, 2026-08-17) — also the general QSMP2 season start date. No VOD link provided yet.
 - **Link:** Not provided
 - **Language:** Mixed Spanish/English, as spoken in-scene
 - **Coverage:** Partial — a single scene (cruise ship, prior to island arrival)
