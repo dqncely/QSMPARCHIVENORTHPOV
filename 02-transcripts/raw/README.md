@@ -26,3 +26,11 @@ One file per source (stream, VOD, clip, official post). Copy
 | [2026-03-pending-foolish-response-and-north-reveal.md](2026-03-pending-foolish-response-and-north-reveal.md) | Foolish's distraction period; the North learns of the kidnapping | Pending |
 | [2026-03-pending-aldo-sacrifice-and-mirroring.md](2026-03-pending-aldo-sacrifice-and-mirroring.md) | Cucurucho's pressure on Aldo; Aldo turns himself in; Tina/Foolish mirror Juan/Aldo | Pending |
 | [2026-03-pending-foolish-spiral-and-dark-cucurucho.md](2026-03-pending-foolish-spiral-and-dark-cucurucho.md) | Foolish's forest spiral and the Dark Cucurucho ritual | Pending |
+| [2026-03-pending-juans-return-day-7.md](2026-03-pending-juans-return-day-7.md) | Juan's return — Day 7 | Pending |
+| [2026-03-pending-week-foolish-gone.md](2026-03-pending-week-foolish-gone.md) | The week Foolish was gone (Katie's wedding, Aldo's brainwashing, Tina's search) | Pending |
+| [2026-03-pending-foolish-return-multis-lab.md](2026-03-pending-foolish-return-multis-lab.md) | Foolish's return; reunion at Multi's lab | Pending |
+| [2026-03-pending-office-reunion-debrief.md](2026-03-pending-office-reunion-debrief.md) | The office reunion — full debrief | Pending |
+| [2026-03-pending-tina-reunion.md](2026-03-pending-tina-reunion.md) | Tina's reunion with Juan | Pending |
+| [2026-03-pending-barbecue-monday-reunion.md](2026-03-pending-barbecue-monday-reunion.md) | Barbecue Monday — the reunion cookout (song lyrics not reproduced) | Pending |
+| [2026-03-pending-340-part-plan-and-night.md](2026-03-pending-340-part-plan-and-night.md) | The "340-part plan" and the night after | Pending |
+| [2026-03-pending-camping-trip-fatal-error.md](2026-03-pending-camping-trip-fatal-error.md) | The camping trip — Camp Fatal Error | Pending |

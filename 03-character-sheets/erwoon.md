@@ -10,6 +10,11 @@
 
 - Has a rivalry/best-friends dynamic with [Katie B.](katie-b.md), similar in shape to how she and Juan/Foolish interact. [MY INTERPRETATION — pending confirmation]
 
+## Canon facts
+
+- Hosted Katie B. and Tomate's wedding at his church. [CANON FACT, EV-0057]
+- Per Multi, had a similar experience to Juan's "invisible assassin" incident — someone attacked him too over disrespecting Katie B. [CANON FACT, per Multi's account, EV-0058]
+
 ## Faction affiliations
 
 - Polish Cave (with Multi, Nexe, Graf, Quackity) — see [Polish Cave](../05-worldbuilding-factions/polish-cave.md).

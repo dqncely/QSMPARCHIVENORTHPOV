@@ -38,7 +38,11 @@
 | EV-0046 (pending) | Foolish confronts Juan over the Maximus leak; a brief unguarded moment (Juan's fake-angry look softening) that neither names, covered immediately by a joke | [CANON FACT] |
 | EV-0047 (pending) | Rooftop conversation — Juan admits fear plainly, Foolish reassures him and brings him fully into the Federation plan; among their most direct, un-joked exchanges on record | [CANON FACT] |
 | EV-0032 (same day as EV-0031) | Casual, bantering monster hunt — jealousy-coded jabs about Tubbo/Robleis/Cucurucho — now confirmed as one of their last easy conversations before Juan's disappearance | [CANON FACT — full transcript now available] |
-| EV-0033 (pending date) | Juan disappears; Foolish is the last person he spoke to beforehand | [MY INTERPRETATION — pending confirmation] |
+| EV-0033 | Juan disappears after an unfinished, sincere goodbye with Foolish neither recognized as one | [CANON FACT] |
+| EV-0058 | Reunion at Multi's lab — immediate, mutual hug; shared contagious laughter across several bits confirms their core dynamic is intact | [CANON FACT] |
+| EV-0059 | Full debrief; Juan admits, for the first time to anyone, that he's afraid to go outside; Foolish invites him camping — reads, per author, like a date | [CANON FACT] |
+| EV-0061 | Barbecue Monday reunion — revived drinking rivalry, Juan's love song (denies it's "for" anyone, more forcefully than asked), an unremembered night together on the couch | [CANON FACT] |
+| EV-0062 | The camping trip — Foolish genuinely protective through real fear and real danger; both instinctively reach for the same solution (a parachute) when they lose their things, without discussing it | [CANON FACT] |
 
 ## Each person's perception of the other
 
@@ -150,9 +154,9 @@ Author has confirmed (2026-08-17) that this relationship eventually develops int
 
 ## Current relationship state
 
-- **As of (Event ID):** EV-0055 (last tracked event)
-- **Relationship type:** Deep, tested trust underneath an ongoing "rivalry" bit — both currently absent from each other and from the North: Juan in captivity, Foolish soul-bound to Dark Cucurucho and away building a temple.
-- **Summary:** From a warm first meeting through a real betrayal-and-repair cycle, physical protection, petty prank wars, and a full trust arc around the Federation, culminating in an unfinished, unrecognized goodbye — this is by far the most developed relationship in the tracked timeline. Neither currently knows the other's situation: Juan doesn't know Foolish has bound his soul to try to save him; Foolish doesn't know the specifics of Juan's captivity beyond what Aldo relayed. Foolish's private realization from EV-0045 remains entirely unspoken and unacted upon.
+- **As of (Event ID):** EV-0062 (last tracked event)
+- **Relationship type:** Reunited, visibly deepened by the separation, though neither has named anything explicitly. Foolish's role has shifted noticeably toward active caretaking — inviting Juan camping specifically to address his new fear of the outdoors, staying genuinely protective through real danger rather than purely deflecting into jokes the way he did before the kidnapping.
+- **Summary:** From a warm first meeting through a real betrayal-and-repair cycle, physical protection, petty prank wars, a full trust arc around the Federation, an unfinished goodbye, and a separation neither fully understood at the time, this pair has now reunited — and the reunion itself (the immediate hug, the shared uncontrollable laughter, the camping trip, the unremembered night on the couch) reads as more emotionally open than anything before the kidnapping. Foolish's private realization from EV-0045 remains unspoken; so does whatever Foolish did to try to save Juan (the Dark Cucurucho pact, EV-0055) — Juan doesn't know about it as of the last tracked event, and Foolish is actively deflecting questions that would lead there (the "666 thousand coordinates," dodged twice).
 
 ## Correction on record
 

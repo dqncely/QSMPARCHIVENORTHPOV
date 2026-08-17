@@ -61,4 +61,11 @@ provisional vs. confirmed.
 | EV-0052 | Cucurucho pressures Aldo; Fariis is killed for real | Pending | [ev-0052-cucurucho-pressure-and-fariis.md](ev-0052-cucurucho-pressure-and-fariis.md) |
 | EV-0053 | Aldo turns himself in; Foolish and Tina step into their roles | Pending | [ev-0053-aldo-sacrifice-tina-foolish-mirror.md](ev-0053-aldo-sacrifice-tina-foolish-mirror.md) |
 | EV-0054 | Foolish's forest spiral | Pending (campfire scene precedes EV-0053) | [ev-0054-foolish-forest-spiral.md](ev-0054-foolish-forest-spiral.md) |
-| EV-0055 | Foolish finds the temple and sells his soul to Dark Cucurucho | Pending — most recent tracked event | [ev-0055-dark-cucurucho-ritual.md](ev-0055-dark-cucurucho-ritual.md) |
+| EV-0055 | Foolish finds the temple and sells his soul to Dark Cucurucho | Pending | [ev-0055-dark-cucurucho-ritual.md](ev-0055-dark-cucurucho-ritual.md) |
+| EV-0056 | Juan's return, Day 7 | Pending | [ev-0056-juan-return-day-7.md](ev-0056-juan-return-day-7.md) |
+| EV-0057 | The week Foolish was gone (Katie's wedding, Aldo's brainwashing, Tina's search) | Pending | [ev-0057-week-foolish-gone.md](ev-0057-week-foolish-gone.md) |
+| EV-0058 | Foolish's return; reunion at Multi's lab | Pending | [ev-0058-foolish-return-multis-lab.md](ev-0058-foolish-return-multis-lab.md) |
+| EV-0059 | The office reunion: full debrief | Pending | [ev-0059-office-reunion-debrief.md](ev-0059-office-reunion-debrief.md) |
+| EV-0060 | Tina's reunion with Juan | Pending | [ev-0060-tina-reunion.md](ev-0060-tina-reunion.md) |
+| EV-0061 | Barbecue Monday: the reunion cookout | Pending | [ev-0061-barbecue-monday-reunion.md](ev-0061-barbecue-monday-reunion.md) |
+| EV-0062 | The camping trip: Camp Fatal Error | Pending — most recent tracked event | [ev-0062-camping-trip-fatal-error.md](ev-0062-camping-trip-fatal-error.md) |

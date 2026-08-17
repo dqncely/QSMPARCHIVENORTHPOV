@@ -19,9 +19,15 @@
 |---|---|---|
 | EV-0041 | Runs a chaotic, unsuccessful-but-not-totally-wrong "relationship therapy" session for Foolish and Juan | [CANON FACT] |
 
+## Canon facts (continued)
+
+- Marries [Tomate](tomate.md) at Erwoon's church, during the week Foolish was gone. [CANON FACT, EV-0057]
+- Apparently unpopular enough by this point that someone (invisible, unidentified) attacks Juan over a note defending her honor — implying real public animosity toward her that isn't otherwise explained. [CANON FACT, EV-0058]
+
 ## Canon evidence
 
 - [EV-0041](../01-canon-timeline/ev-0041-katie-b-therapy.md) / [transcript](../02-transcripts/raw/2026-03-pending-katie-b-therapy.md)
+- [EV-0057](../01-canon-timeline/ev-0057-week-foolish-gone.md), [EV-0058](../01-canon-timeline/ev-0058-foolish-return-multis-lab.md)
 
 ## Writing notes
 

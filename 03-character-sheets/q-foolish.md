@@ -90,8 +90,8 @@ resolve.
 
 ## Current status
 
-- **As of:** EV-0055 (last tracked event)
-- Physically absent from the North — bound by a soul pact to Dark Cucurucho, building his temple, expected to be gone for weeks from the North's perspective though it will feel immediate to him. Left the North a note in case he doesn't return within two weeks. Was, until this point, effectively running the household alongside Tina in Aldo and Juan's absence. Escalating kelpamine use over the preceding weeks. [CANON FACT]
+- **As of:** EV-0062 (last tracked event)
+- Back at the North after an unexplained gap — regained consciousness near a church with no memory of how he got there, only his mission. Reunited with Juan; resumed kelpamine production and his usual duties. Still deflecting questions about the Federation and about "the 666 thousand coordinates" (dodged twice, from Multi and from Mike) — implying the Dark Cucurucho arc is not resolved, just unaddressed for now. Possesses a "kidnapped" white monster in his lab, likely tied to the temple. [CANON FACT]
 
 ## Chronological character arc
 
@@ -115,6 +115,9 @@ resolve.
 | EV-0053 | Steps into Juan's role at the North alongside Tina (who takes Aldo's), after Aldo turns himself in | [CANON FACT] |
 | EV-0054 | Spirals — escalating kelpamine use, solitary forest camping, avoids acknowledging Juan's absence directly even to close friends | [CANON FACT] |
 | EV-0055 | Finds a temple built for Dark Cucurucho; sells his soul to it in exchange for a chance to get his friends back | [CANON FACT] |
+| EV-0058 | Returns with no memory of the gap; reunites with Juan, deflects Federation/coordinate questions successfully | [CANON FACT] |
+| EV-0059 | Full debrief with Juan; invites him camping specifically to help with his new fear of the outdoors | [CANON FACT] |
+| EV-0062 | Takes Juan camping; genuinely protective and reassuring throughout, still dodges the coordinates question a second time | [CANON FACT] |
 | EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
 | EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
 | EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |

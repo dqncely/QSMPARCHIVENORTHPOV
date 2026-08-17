@@ -10,7 +10,7 @@
 
 - Follows Juan on his last free day before capture, recording; Juan talks to him/the camera while waiting for his "date." [CANON FACT, EV-0033]
 - Records Foolish building at the temple site right before the Dark Cucurucho encounter; laughs at the early lightning strikes, not registering the danger Foolish senses. [CANON FACT, EV-0055]
-- Per author: eventually marries [Katie B.](katie-b.md), the therapist. [MY INTERPRETATION — pending confirmation, future lore]
+- Marries [Katie B.](katie-b.md) at Erwoon's church, during the week Foolish was gone. [CANON FACT, EV-0057]
 - The role appears to rotate between different individuals ("the 3rd one, he doesn't know — Federation workers constantly get replaced") — treat "Tomate" as a position/name that may not map to one consistent individual across scenes. [MY INTERPRETATION, per author's own uncertainty in the source]
 
 ## Related entries

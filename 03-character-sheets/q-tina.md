@@ -62,8 +62,8 @@ None established.
 
 ## Current status
 
-- **As of:** EV-0055 (last tracked event)
-- Acting Generalísima of The North, a role handed to her by Aldo when he turned himself in. Openly grieving both Aldo's and Juan's absences — more verbally than Foolish, who's covering similarly with jokes and kelpamine instead. [CANON FACT]
+- **As of:** EV-0061 (last tracked event)
+- Remains acting Generalísima. Her solo search for Aldo failed — knocked unconscious, found alongside a group of returning "Nachos" who'd also been attacked by Aldo. Had a fight with Aldo the day before reuniting with Juan; dressing more for herself lately (a football jersey) rather than to impress him. Openly emotional/expressive about the whole situation, in contrast to Foolish's deflection. [CANON FACT]
 
 ## Chronological character arc
 
@@ -72,6 +72,8 @@ None established.
 | EV-0050 | Present when the North learns of Juan's kidnapping; part of the "girls' night" group interrupted by the entity | [CANON FACT] |
 | EV-0053 | Given Aldo's rank and title when he turns himself in; breaks the news to Foolish; begins mirroring Aldo's role and phrasing | [CANON FACT] |
 | EV-0054 | Openly, repeatedly voices missing Juan; pushes back on Foolish's deflection about the kidnapping; worries about his kelpamine use | [CANON FACT] |
+| EV-0057 | Searches for Aldo alone, fails, knocked unconscious, found with returning Nachos | [CANON FACT] |
+| EV-0060/EV-0061 | Reunites with Juan; new self-directed style; sings at the reunion barbecue | [CANON FACT] |
 
 ## Relationships
 

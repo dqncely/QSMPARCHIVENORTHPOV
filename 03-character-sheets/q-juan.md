@@ -54,6 +54,7 @@ Not yet established.
 ## Fears / insecurities
 
 - [MY INTERPRETATION, per author's analysis of EV-0038] A long-standing (per Juan, "his whole life") fear that he always loves more than he's loved back. This is offered by the author as the root of his possessiveness/jealousy — not pure ego, but fear of always being the one giving more. If someone he loves has other loyalties or "special friends," his instinct reads that as proof he isn't enough.
+- [CANON FACT, post-captivity] A new, specific fear of leaving the North's territory — kept private until he admits it to Foolish directly in [EV-0059](../01-canon-timeline/ev-0059-office-reunion-debrief.md); before that, deflects anyone who asks him to go out with "later." Wears armor as standing policy whenever he does leave.
 - This is also offered (by the author) as the reason a later situation with **Graf** — a North member with sincere, unreciprocated romantic interest in Juan — becomes a genuine crisis of conscience: Juan knows too well what loving intensely feels like, and doesn't want to be the person who receives that without returning it. See stub: [Graf](graf.md).
 - [CANON FACT, per author] Willing to defend someone at length while listing every one of their flaws in the same breath ("not the smartest... completely irritating, stupid, crude... but not a traitor") — his loyalty and his insults toward Foolish specifically are not actually in tension with each other, they're the same instinct.
 - [CANON FACT, per EV-0045] Denies aloud, immediately and completely, any suggestion that his feelings for Foolish are romantic — but privately can't fully dismiss it once said out loud by someone else. First point in the tracked timeline where this is voiced by anyone.
@@ -81,8 +82,8 @@ None established yet.
 
 ## Current status
 
-- **As of:** EV-0049 (last tracked event involving him directly)
-- Held captive by Cucurucho/the Federation, in a sparse white room, pending Aldo's "cooperation." Alone except for occasional guards and wither attacks; his teddy bear was confiscated and is being used to pressure Aldo. His attempt to reach out to Foolish was cut short. Whereabouts and condition unknown to the North as of the last tracked event on their side. [CANON FACT]
+- **As of:** EV-0062 (last tracked event)
+- Released and back at the North, physically recovered (broken arm healed) but carrying real trauma: a new, previously-undisclosed fear of leaving the house, compulsive fixation on home upkeep/rituals, and heightened need for physical affection/reassurance (hugging people more than usual, including near-strangers). Opened a new art shop as an impulsive post-captivity project. Reunited with Foolish and Tina; Aldo remains brainwashed and only partially recovered. Wears armor whenever leaving North territory now, as standing policy. [CANON FACT]
 
 ## Chronological character arc
 
@@ -105,6 +106,9 @@ None established yet.
 | EV-0046/EV-0047 | Apologizes for the Maximus leak, admits fear about the Federation plan, agrees to join it himself | [CANON FACT] |
 | EV-0033 | Lured by a fake secret-admirer invitation; has an unfinished, sincere goodbye with Foolish without realizing it's one; captured by Cucurucho | [CANON FACT] |
 | EV-0049 | Held in captivity for at least six days — cycling through denial, defiance, guilt (over Quackity), and eventual desperation; reaches for Foolish's name when he finally breaks | [CANON FACT] |
+| EV-0056 | Released; returns home hurt, disoriented, and compulsively fixated on house upkeep; learns Aldo never came back | [CANON FACT] |
+| EV-0058/EV-0059 | Reunites with Foolish; admits for the first time to anyone that he's afraid to go outside; accepts a camping invitation from him | [CANON FACT] |
+| EV-0062 | Spends a full night facing his fear of the outdoors at Foolish's campsite, scared but supported | [CANON FACT] |
 | EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
 | EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
 | EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
