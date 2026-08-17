@@ -18,11 +18,19 @@ Not yet established.
 - Social connector — recognizes people and actively brings them together
   (drags Foolish over to meet Juan). [CANON FACT]
 - Warm/casual manner in his one line of dialogue so far. [CANON FACT]
+- [MY INTERPRETATION — author's character notes, not tied to a single event] Morally grey, nosy, emotionally avoidant, entertained by chaos. Shows up at dramatic moments less to help than to get the "chisme" (gossip). Plays dumb/unserious deliberately so people underestimate how much he notices — reads social/romantic tension quickly and pokes at it. Can be cruelly funny without meaning to be; jokes before choosing, and in serious conflict keeps joking longer than Foolish would (Foolish deflects then goes quiet; Roier deflects and keeps pushing until it explodes or turns funny again). Morality is flexible — cares about people while still making selfish/chaotic choices; sides with whoever he thinks was wronged, even against Juan or the North.
 
 ## Speech patterns
 
 - Speaks Spanish as demonstrated ("Este es mi amigo, Juan.") — too little
   sample yet to characterize further. [CANON FACT]
+- [MY INTERPRETATION — author-authored voice notes] Mostly younger, casual Mexican Spanish — slang, teasing, dramatic reaction noises; fast, playful, vulgar, modern. Common words/phrases: "No mames.", "Güey.", "Papu.", "Cabrón.", "Qué pedo.", "A ver.", "Uy.", "Híjole.", "Está bien pendejo.", "Pinche…", "Chisme.", "¿Qué está pasando aquí?" Calls people out indirectly through jokes — uses humor as social pressure. May translate badly for Foolish on purpose.
+- Sample voice lines (author-authored, [FIC ADDITION] — craft reference, not claimed as quoted canon):
+  - "Papu, yo nomás vine por el chisme y ya me metieron en divorcio."
+  - "No mames, ¿ustedes están peleando o coqueteando? Porque ya me perdí."
+  - "Juan, con todo respeto, estás bien pendejo."
+  - "Foolish, güey, tú tampoco te hagas. Se te nota desde el espacio."
+  - "Yo no vi nada. Pero si hubiera visto algo, estaría bien indecente."
 
 ## Languages
 
@@ -55,7 +63,7 @@ Not yet established.
 
 ## Faction affiliations
 
-None yet.
+- [The North](../05-worldbuilding-factions/the-north.md) — one of Vegetta's biological/adopted children; possibly the "prince" of the North (author unconfirmed). Acts as comedic relief and occasional diplomat maintaining North's standing with other factions. [MY INTERPRETATION, per author]
 
 ## Important possessions
 
@@ -63,15 +71,17 @@ None established yet.
 
 ## Current status
 
-- **As of:** EV-0001
-- Aboard the cruise ship; reunites with Foolish and reintroduces him to
-  Juan. [CANON FACT]
+- **As of:** EV-0014 (last tracked event involving Roier directly)
+- Member of The North; recently in a serious, now-cooling conflict with Juan over the kill-plot revelation; has a recurring grandfather figure, Abueloier, in his life. [Mixed]
 
 ## Chronological character arc
 
 | Event ID | What happens for this character | Tag |
 |---|---|---|
 | EV-0001 | Reconnects with Foolish; brings Foolish and Juan together | [CANON FACT] |
+| EV-0002 | Collaborates on North construction | [CANON FACT] |
+| EV-0013 | Learns of Juan/Quackity's plan to kill him; attacks Juan; injured (via Missa) and stopped by Foolish twice | [CANON FACT] |
+| EV-0014 | Banter with Juan resumes; delivers the "Osito Bimbo" line; suggests a psychologist | [CANON FACT] |
 
 ## Relationships
 
@@ -114,10 +124,27 @@ character on-screen.
 
 ## Writing notes
 
-- Voice checklist: too little dialogue sample yet — keep an eye out for
-  more before locking in a voice.
+- Voice checklist: too little *confirmed* dialogue sample yet, but the
+  author's own voice notes above (fast, playful, vulgar Mexican Spanish
+  slang, teasing through indirect callouts) should guide drafting.
 - Things to avoid: don't have Roier reference specific island memories
   confidently unless/until his memory loss is clarified — err toward
-  vagueness or avoidance rather than sudden recall.
+  vagueness or avoidance rather than sudden recall. Also don't play him
+  as purely comic relief — per author, he's "not stupid," plays dumb
+  deliberately, and notices more than he lets on.
+- Comparison anchors: EV-0013/EV-0014 — capable of real violence when he
+  believes his life was threatened, then back to banter almost
+  immediately after.
+- Role re: Foolish/Juan ("Sharkflower"), per author's characterization —
+  [FIC ADDITION / MY INTERPRETATION, craft notes]: Roier sees their
+  dynamic clearly before they do (or before they'll admit it) — reads
+  them as already behaving like a couple (arguing, denying, orbiting,
+  overreacting, jealous). Ships it for entertainment more than genuine
+  faith they'll resolve it, given how avoidant and prideful both are.
+  Functions as a comedic pressure valve that isn't safe — jokes can
+  expose the serious thing underneath rather than defuse it. Sample
+  lines: "No mames, ¿otra vez ustedes dos? Ya mejor cobren por el show.";
+  "Juan, papu, si lo odias tanto, ¿por qué siempre estás pegado a él?";
+  "Foolish, estás bien pendejo si crees que nadie se da cuenta."
 - Open craft questions: how much does Roier actually remember, and does
   he know he's forgetting things, or is it invisible to him?

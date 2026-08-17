@@ -14,3 +14,6 @@ file — this table only has room for the current snapshot.
 | REV-0002 | Roier's memory loss | Q!Roier | — | Pre-EV-0001 | [rev-0002-roier-memory-loss.md](rev-0002-roier-memory-loss.md) |
 | REV-0003 | Juan's prison history | Q!Juan | — | Pre-EV-0001 | [rev-0003-juan-prison-history.md](rev-0003-juan-prison-history.md) |
 | REV-0004 | Foolish's private resolve ("don't get attached") | Q!Foolish | — | EV-0001 | [rev-0004-foolish-private-resolve.md](rev-0004-foolish-private-resolve.md) |
+| REV-0005 | "Cucurucho" was Robleis in disguise | Q!Robleis, Q!Juan, The North | — | EV-0007/EV-0008; revealed EV-0031 | [rev-0005-cucurucho-is-robleis.md](rev-0005-cucurucho-is-robleis.md) |
+| REV-0006 | Who's actually responsible for Estupidog's death | Unresolved — 3 conflicting accounts | Possibly all three parties, re: each other | EV-0009/EV-0010/EV-0015 | [rev-0006-estupidog-death-responsibility.md](rev-0006-estupidog-death-responsibility.md) |
+| REV-0007 | Circumstances of Juan's disappearance | Q!Juan, Q!Foolish (partial), Ishan (partial) | — | EV-0033 | [rev-0007-juan-disappearance-circumstances.md](rev-0007-juan-disappearance-circumstances.md) |

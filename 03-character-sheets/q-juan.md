@@ -64,7 +64,7 @@ Not yet established.
 
 ## Faction affiliations
 
-None yet.
+- [The North](../05-worldbuilding-factions/the-north.md) — "Segundo al mando deluxe"; runs the North's inner workings, meeting planning, diplomacy in Vegetta's absence. One of Vegetta's biological/adopted children. [CANON FACT]
 
 ## Important possessions
 
@@ -72,15 +72,33 @@ None established yet.
 
 ## Current status
 
-- **As of:** EV-0001
-- Aboard the cruise ship, meeting Foolish for the first time via Roier.
-  [CANON FACT]
+- **As of:** EV-0033 (last tracked event)
+- Missing — summoned by the Federation and disappeared; last spoke with Foolish beforehand. [CANON FACT, per author, pending QNN confirmation]
 
 ## Chronological character arc
 
 | Event ID | What happens for this character | Tag |
 |---|---|---|
 | EV-0001 | Meets Foolish for the first time via Roier; easy, warm first exchange, no rivalry yet | [CANON FACT] |
+| EV-0003 | Resistance tries to recruit him against Vegetta; he refuses, protects "the family" | [CANON FACT] |
+| EV-0006 | Jealousy over "segundo al mando plus" escalates to death threats | [CANON FACT] |
+| EV-0007/0008 | Awaits (and gets conflicting reports about) a date with Cucurucho | [CANON FACT] |
+| EV-0009 | Psychologically pressures Foolish into a full Estupidog confession | [CANON FACT] |
+| EV-0010 | Trusts Tubbo's denial, says he likes him better than Foolish | [CANON FACT] |
+| EV-0012 | Argument with Quackity over room-tidying | [CANON FACT] |
+| EV-0013 | Reveals a plan (with Quackity) to kill Roier; attacked by Roier; saved by Foolish | [CANON FACT] |
+| EV-0014 | "Osito Bimbo" line with Roier; agrees to see a psychologist | [CANON FACT] |
+| EV-0016 | Negotiates peace with Ash; gives him the "flor de la paz" | [CANON FACT] |
+| EV-0019/0020 | Prank war with Foolish (flooding, bees) | [CANON FACT] |
+| EV-0021 | Vegetta turns cold on him over construction criticism; responds with earnest apology/effort | [CANON FACT] |
+| EV-0022 | Attacked by Cucurucho with a potion and black entities | [CANON FACT] |
+| EV-0023 | Killed by Foolish's train; returns as a ghost demanding netherite from Tubbo | [CANON FACT] |
+| EV-0024 | Formally demotes Foolish; public shouting match | [CANON FACT] |
+| EV-0025 | Disbelieves Foolish's DNA-extraction account | [CANON FACT] |
+| EV-0027/0028 | Deflects in group therapy, then privately confesses genuine affection for Foolish | [CANON FACT] for EV-0027; [MY INTERPRETATION — pending transcript] for EV-0028 |
+| EV-0030 | Initially calls Foolish a "traitor" over the Federation, then defends him to Aldo, leaks his own confidence to Maximus, apologizes sincerely, and joins him in Federation info-gathering | [MY INTERPRETATION — pending confirmation] |
+| EV-0031 | Discovers "Cucurucho" was Robleis in disguise; heartbroken | [MY INTERPRETATION — pending confirmation] |
+| EV-0033 | Summoned by the Federation; disappears after a final conversation with Foolish | [MY INTERPRETATION — pending confirmation] |
 
 ## Relationships
 
@@ -92,6 +110,8 @@ None established yet.
 | Secret | Hidden from | Known to | Revealed? (Event ID or "not yet") | Tag |
 |---|---|---|---|---|
 | Recent release from prison | Foolish, Roier (not raised in EV-0001) | Juan | Not yet | [MY INTERPRETATION] |
+| Plan (with Quackity) to kill Roier | Roier, until EV-0013 | Juan, Quackity | EV-0013 | [CANON FACT] |
+| Believed relationship with "Cucurucho" was fake | Juan himself, until EV-0031 | Robleis | EV-0031 | [MY INTERPRETATION — pending confirmation] |
 
 ## What this character knows at different points in the timeline
 

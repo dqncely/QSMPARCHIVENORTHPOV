@@ -23,6 +23,7 @@
 | Event ID / date | What changed | Tag |
 |---|---|---|
 | EV-0001 | Reunion aboard the cruise ship after (unshown) prior history from the QSMP1 island | [CANON FACT] for the reunion itself |
+| EV-0013 (2026-03-22) | Foolish attacks Roier directly, twice, in defense of Juan — first on-record conflict between them, and a real strain against the EV-0001 "paternal affection" framing | [CANON FACT] |
 
 ## Each person's perception of the other
 
@@ -96,6 +97,8 @@ been captured yet.**
 - [MY INTERPRETATION] Whether Roier remembers their shared island history
   the way Foolish does, and what happens when/if that gap becomes visible
   between them.
+- [CANON FACT] Whether/how EV-0013's violence between them is ever
+  directly addressed, given the warmth established in EV-0001.
 
 ## Current relationship state
 

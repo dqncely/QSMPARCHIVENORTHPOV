@@ -65,34 +65,51 @@ resolve.
 
 ## Faction affiliations
 
-None yet — predates any shown faction structure.
+- [The North](../05-worldbuilding-factions/the-north.md) — "Segundo al mando plus plus," directly under Juan in the hierarchy. Living with Vegetta (see [Q!Foolish & Q!Vegetta777](../04-relationship-sheets/q-foolish-and-q-vegetta777.md)). [CANON FACT]
+- Formerly Federation-affiliated on QSMP1; approached again by the Federation in EV-0030. [CANON FACT, per author]
 
 ## Important possessions
 
-None established yet.
+- Purple dragon build next to the North's castle, which doubles as his kelpamine lab. Kelpamine (his own product) causes dizziness, invisibility, and mild euphoria. [CANON FACT, per author]
 
 ## Current status
 
-- **As of:** EV-0001
-- Aboard the cruise ship, newly reunited with Roier and freshly introduced
-  to Juan. [CANON FACT]
+- **As of:** EV-0033 (last tracked event)
+- Missing companion to the recently-disappeared Juan (last person Juan spoke to). Member of The North; DNA-extraction claims disbelieved by his household; recently reconnected with the Federation. [Mixed — see individual events]
 
 ## Chronological character arc
 
 | Event ID | What happens for this character | Tag |
 |---|---|---|
 | EV-0001 | Reunites with Roier; meets Juan for the first time; privately resolves not to get attached this time around | [CANON FACT] for the meeting itself; [MY INTERPRETATION] for the internal resolve |
+| EV-0002 | Plans to live with Vegetta; warmly received | [CANON FACT] |
+| EV-0004 | Rejects Regime recruitment, names his North team | [CANON FACT] |
+| EV-0009 | Confesses to colluding with the Regime to kill Estupidog for a promotion | [CANON FACT] |
+| EV-0013 | Physically defends Juan against Roier and Missa, twice | [CANON FACT] |
+| EV-0017/0018 | Denies responsibility for the train theft and the alarm chaos despite direct involvement in at least the former | [CANON FACT] |
+| EV-0019/0020 | Escalating prank war with Juan (copycat office, bees) | [CANON FACT] |
+| EV-0023 | Runs Juan over with the train, apparently killing him | [CANON FACT] |
+| EV-0024 | Publicly demoted by Juan; shouting match | [CANON FACT] |
+| EV-0025 | DNA-extraction account disbelieved by Juan and Aldo; deemed in need of "rehabilitation" | [CANON FACT] |
+| EV-0028 | Receives Juan's sincere private confession of friendship after group therapy | [MY INTERPRETATION — pending transcript] |
+| EV-0030 | Tells Juan first about the Federation's approach; trust-cycle with Juan (distrust → defense → betrayal → apology → full trust → collaboration) | [MY INTERPRETATION — pending confirmation] |
+| EV-0032 | Leads a monster-baiting scheme; Juan joins | [MY INTERPRETATION — pending confirmation] |
+| EV-0033 | Last person Juan speaks to before disappearing | [MY INTERPRETATION — pending confirmation] |
 
 ## Relationships
 
 - [Q!Foolish & Q!Roier](../04-relationship-sheets/q-foolish-and-q-roier.md)
 - [Q!Foolish & Q!Juan](../04-relationship-sheets/q-foolish-and-q-juan.md)
+- [Q!Foolish & Q!Vegetta777](../04-relationship-sheets/q-foolish-and-q-vegetta777.md)
 
 ## Secrets
 
 | Secret | Hidden from | Known to | Revealed? (Event ID or "not yet") | Tag |
 |---|---|---|---|---|
 | Private resolve not to get attached ("maybe take them down") | Roier, Juan | Foolish only | Not yet | [MY INTERPRETATION] |
+| Collusion with the Regime to kill Estupidog | Juan (initially) | Foolish, the Regime | EV-0009 | [CANON FACT] |
+| QSMP1 history with Vegetta and the egg Leonarda | Not actively hidden, but never discussed with Vegetta directly | Foolish, Vegetta (both, but unaddressed) | Not yet | [MY INTERPRETATION] |
+| Whether the train collision with Juan (EV-0023) was intentional | Everyone | Foolish (presumably) | Not yet | [MY INTERPRETATION] |
 
 ## What this character knows at different points in the timeline
 

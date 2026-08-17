@@ -20,6 +20,16 @@
 | Event ID / date | What changed | Tag |
 |---|---|---|
 | EV-0001 | Reunion aboard the cruise ship (implied — Juan waves happily on spotting Roier) | [CANON FACT] for the wave/happy reaction; [MY INTERPRETATION] for calling it a "reunion" tied to a childhood friendship |
+| EV-0013 (2026-03-22) | Major rupture: Juan reveals a plan (with Quackity) to kill Roier; Roier attacks him; Foolish intervenes on Juan's side, injuring Roier's ally Missa | [CANON FACT] |
+| EV-0014 (2026-03-22) | Banter resumes almost immediately after the violence; Roier names Juan's anxiety directly ("Osito Bimbo" line), suggests a psychologist | [CANON FACT] |
+
+Per the author's broader characterization (not tied to a single dated
+event): Roier and Juan have an older/younger-sibling dynamic — Roier
+teases Juan relentlessly, reads him as uptight and easy to bait, but the
+affection is real underneath the insults. Roier is one of the few people
+who can humiliate Juan without becoming an enemy for it. Later conflicts
+(Aldo's growing isolation within the North) may pull Roier toward Aldo's
+side against Juan/the North. [MY INTERPRETATION — author's character notes]
 
 ## Each person's perception of the other
 
@@ -55,6 +65,8 @@ None shown yet.
 | As of (Event ID) | A (Juan) → B (Roier) trust | B (Roier) → A (Juan) trust | Notes | Tag |
 |---|---|---|---|---|
 | EV-0001 | High (implied by old-friend framing) | High (implied, despite memory gaps) | Long-standing friendship implied but undetailed | [MY INTERPRETATION] |
+| EV-0013 | Broken (temporarily) | Broken (temporarily) | Kill-plot reveal and mutual violence | [MY INTERPRETATION] |
+| EV-0014 | Recovering | Recovering | Banter and a psychologist suggestion resume within the same day | [MY INTERPRETATION] |
 
 ## Sources of conflict
 
